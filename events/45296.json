@@ -1,0 +1,47 @@
+{
+  "title": "Valstugan: Utfrågningar, debatter och raka svar",
+  "arranger": "Expressen",
+  "times": [
+    {
+      "start": "2017-07-02T08:00:00.000Z",
+      "end": "2017-07-02T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-03T08:00:00.000Z",
+      "end": "2017-07-03T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-04T08:00:00.000Z",
+      "end": "2017-07-04T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-05T08:00:00.000Z",
+      "end": "2017-07-05T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-06T08:00:00.000Z",
+      "end": "2017-07-06T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-07T08:00:00.000Z",
+      "end": "2017-07-07T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-08T08:00:00.000Z",
+      "end": "2017-07-08T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-09T08:00:00.000Z",
+      "end": "2017-07-09T15:00:00.000Z"
+    }
+  ],
+  "type": "Mötes- och debattplats",
+  "area": "Ekonomi",
+  "language": "Svenska",
+  "location": "Donners plats, H411",
+  "tags": [
+    ""
+  ],
+  "description": "Vi samlar varje dag de tyngsta politikerna, tidningens profiler och andra tungviktare under politikerveckan för diskussioner om aktuella frågor.",
+  "id": "45296"
+}

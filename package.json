@@ -1,0 +1,21 @@
+{
+  "name": "almedalen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "scrape": "node scrape.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "scraperjs": "1.2.0",
+    "koa": "2.2.0",
+    "koa-views": "6.0.2",
+    "handlebars": "4.0.10",
+    "koa-sass": "1.1.1",
+    "koa-static": "latest",
+    "koa-router": "7.2.0"
+  }
+}

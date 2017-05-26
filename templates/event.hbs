@@ -1,0 +1,31 @@
+<div class="Event">
+  <h1 class="Event-Title">{{title}}</h1>
+  <div class="Event-Meta">
+    {{# if area}}
+      {{area}},
+    {{/if}}
+    {{type}}
+  </div>
+  <div class="Event-Description">
+    <p>
+      {{description}}
+      {{#ifCond language "||" arranger}}
+      <i>
+        Arrangeras
+        {{#if language}}på {{language}}{{/if}}{{#if arranger}} av {{arranger}}{{/if}}.
+      </i>
+      {{/ifCond}}
+    </p>
+  </div>
+  <div class="Event-Details">
+    <div class="Event-Location">
+      {{location}}
+    </div>
+    {{#each times}}
+      <div class="Event-Time">
+        {{{clockIcon start}}}
+        {{prettyTimeSpan start end}}
+      </div>
+    {{/each}}
+  </div>
+</div>

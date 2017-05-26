@@ -1,0 +1,47 @@
+@import "event";
+@import "tag";
+
+HTML, BODY {
+  margin: 0;
+  padding: 0;
+  background: lighten(#e4ea8c, 25%);
+  font-family: "Libre Franklin", "helvetica neue", "helvetica", "arial", "sans-serif";
+  font-size: 16px;
+  line-height: 20px;
+  color: #50312F;
+  height: 100%;
+}
+
+.Program {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+
+.Filters {
+  flex-grow: 1;
+  flex-shrink: 0;
+  width: 300px;
+  box-sizing: border-box;
+  padding: 40px;
+  background: lighten(#e4ea8c, 20%);;
+  height: 100%;
+  overflow: scroll;
+}
+
+.EventList {
+  flex-grow: 1;
+  flex-shrink: 1;
+  box-sizing: border-box;
+  padding: 40px;
+  max-width: 600px;
+  height: 100%;
+  overflow: scroll;
+}
+
+.FilterGroupTitle {
+  font-size: 20px;
+  font-weight: bold;
+  color: #3f6c45;
+  margin: 0 0 10px 0;
+}

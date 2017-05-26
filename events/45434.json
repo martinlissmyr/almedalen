@@ -1,0 +1,23 @@
+{
+  "title": "De politiska besluten som format Sverige",
+  "arranger": "Sveriges Radio",
+  "times": [
+    {
+      "start": "2017-07-02T11:50:00.000Z",
+      "end": "2017-07-02T13:10:00.000Z"
+    }
+  ],
+  "type": "Debatt",
+  "area": "Media/journalistik",
+  "language": "Svenska",
+  "location": "Donnersgatan",
+  "tags": [
+    "Politik",
+    "Politiker",
+    "Samhällsanalyser",
+    "Samhällsutveckling",
+    "Sverigebilden"
+  ],
+  "description": "Vi tar oss an ett antal av de avgörande politiska beslut som format Sverige som vi känner det.",
+  "id": "45434"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Räcker maten?",
+  "arranger": "Sparbankerna",
+  "times": [
+    {
+      "start": "2017-07-05T08:30:00.000Z",
+      "end": "2017-07-05T09:30:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Mat",
+  "language": "Svenska",
+  "location": "Donnersgatan 6",
+  "tags": [
+    "Jordbruk",
+    "Livsmedel",
+    "Mat",
+    "Resursfördelning"
+  ],
+  "description": "Hur ser livsmedelsförsörjningen ut i Sverige? Räcker den mat vi producerar eller behöver vi bli fler matproducenter? Är det  lönt att satsa på livsmedelsproduktion och förädling? Hur klarar vi oss i en krissituation – kan vi snabbt ställa om resurserna?\n",
+  "id": "45415"
+}

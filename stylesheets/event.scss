@@ -1,0 +1,32 @@
+.Event {
+  margin: 0 0 20px 0;
+  border-bottom: 1px solid rgba(0,0,0,.1);
+  padding-bottom: 20px;
+}
+
+.Event-Title {
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 33px;
+  margin: 0 0 2px 0;
+}
+.Event-Meta {
+  font-size: 22px;
+  font-weight: 200;
+  line-height: 25px;
+  color: #3f6c45;
+  margin: 0 0 16px 0;
+}
+.Event-Description {
+  margin: 0 0 16px 0;
+  font-family: "Source Serif Pro", "Georgia", serif;
+  font-size: 18px;
+  line-height: 24px;
+  p {
+    margin: 0;
+  }
+}
+.Event-Location,
+.Event-Time {
+  margin: 0 0 2px 0;
+}

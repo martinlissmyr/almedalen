@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <title>Program Almedalen</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro|Libre+Franklin:300,400,700" rel="stylesheet">
+      <link rel="stylesheet" href="/main.css">
+      <script type="text/javascript">
+        document.querySelector("html").classList.add("javascript-enabled");
+      </script>
+  </head>
+  <body>
+    <div class="Program">
+      <div class="EventList" id="event-list">{{> events events}}</div>
+      <div class="Filters">
+        <form id="filters">
+          <div class="Tags">
+            <h1 class="FilterGroupTitle">Valda ämnen</h1>
+            {{#each tags}}
+              <div class="Tag">
+                <input type="checkbox" id="{{this}}" {{#ifCond this "in" @root.selectedTags}}checked="checked" {{/ifCond}} name="tags" value="{{this}}">
+                <label for="{{this}}">{{this}}</label>
+              </div>
+            {{/each}}
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+  <script>
+    var filters = document.querySelector("#filters");
+    var eventList = document.querySelector("#event-list");
+
+    filters.addEventListener("change", function() {
+      var data = new FormData(filters);
+      var tags = data.getAll("tags");
+      var tagsQueryString = tags.length > 0 ? "tags=" + encodeURIComponent(tags.join("|")) : "";
+
+      window.history.replaceState({}, "", "?" + tagsQueryString);
+
+      fetch("/events?" + tagsQueryString).then(function(response) {
+        return response.text();
+      }).then(function(html) {
+        eventList.innerHTML = html;
+      })
+    });
+  </script>
+</html>

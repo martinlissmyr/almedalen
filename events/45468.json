@@ -1,0 +1,35 @@
+{
+  "title": "Når ert budskap ut till det mångkulturella Sverige?",
+  "arranger": "KAPI - mångkulturell insikt och kommunikation",
+  "times": [
+    {
+      "start": "2017-07-03T08:00:00.000Z",
+      "end": "2017-07-03T16:00:00.000Z"
+    },
+    {
+      "start": "2017-07-04T08:00:00.000Z",
+      "end": "2017-07-04T16:00:00.000Z"
+    },
+    {
+      "start": "2017-07-05T08:00:00.000Z",
+      "end": "2017-07-05T16:00:00.000Z"
+    },
+    {
+      "start": "2017-07-06T08:00:00.000Z",
+      "end": "2017-07-06T14:00:00.000Z"
+    }
+  ],
+  "type": "Mötes- och debattplats",
+  "area": "Integration/mångfald",
+  "language": "Svenska",
+  "location": "Strandvägen, H527",
+  "tags": [
+    "Inkludering",
+    "Integration",
+    "Kommunikation",
+    "Migration",
+    "Mångfald"
+  ],
+  "description": "Hur gör vi information tillgänglig för människor, oavsett språk, kultur, utbildning eller andra förkunskaper? En ny dagsaktuell fråga lyfts upp och diskuteras måndag – torsdag i KAPIs tält.",
+  "id": "45468"
+}
