@@ -14,6 +14,9 @@ function registerTags(tagsToAdd) {
 
 for (var i = 0, l = eventFiles.length; i < l; i++) {
   var eventData = JSON.parse(fs.readFileSync(eventsDir + "/" + eventFiles[i]));
+
+  if (!eventData.tags) { eventData.tags = []; }
+  eventData.tags.push(eventData.area);
   events.push(eventData);
   registerTags(eventData.tags);
 }
@@ -21,7 +24,8 @@ for (var i = 0, l = eventFiles.length; i < l; i++) {
 module.exports = {
   events: events,
   tags: tags.sort().filter(function(item) {
-    return item != "";
+    if (!item) { return false; }
+    return item.trim() != "";
   }),
   filterEvents: function(tags) {
     if (!tags || tags.length === 0) {

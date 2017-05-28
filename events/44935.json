@@ -1,0 +1,23 @@
+{
+  "title": "En skola för medelklassen?",
+  "arranger": "Mittuniversitetet",
+  "times": [
+    {
+      "start": "2017-07-05T12:00:00.000Z",
+      "end": "2017-07-05T12:45:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Forskning",
+  "language": "Svenska",
+  "location": "Björkanderska, Skeppsbron 24",
+  "tags": [
+    "Barn och ungdomar",
+    "Forskning och utbildning",
+    "Skolpolitik",
+    "Skolutveckling"
+  ],
+  "description": "Resultaten ur den senaste PISA-undersökningen visar en vändning i kunskapsresultaten för svensk skola och elever. Samtidigt pekar den på fortsatta klyftor mellan olika skolor och elevgrupper. Vilka framtida problem och möjligheter står svensk skola inför?",
+  "extendedDescription": "Magnus Oskarsson, projektledare för PISA 2015, beskriver några centrala resultat från PISA-undersökningen och från sin egen forskning kring dagens ungdomskulturer.",
+  "id": "44935"
+}

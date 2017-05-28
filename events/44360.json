@@ -1,5 +1,23 @@
 {
   "title": "Hur stort är hotet från extremisterna?",
+  "arranger": "Dagens Samhälle",
+  "times": [
+    {
+      "start": "2017-07-05T10:30:00.000Z",
+      "end": "2017-07-05T10:45:00.000Z"
+    }
+  ],
+  "type": "Frågestund/utfrågning",
+  "area": "Demokrati",
+  "language": "Svenska",
+  "location": "Cramérgatan, H305",
+  "tags": [
+    "Islamism",
+    "Kommun",
+    "Nazism",
+    "Säkerhet",
+    "Våldsbejakande extremism"
+  ],
   "description": "Ny lägesbild visar vad kommunerna gör för att förebygga våldsbejakande  extremism. Hur långt har de kommit? Och går det att undvika fler attentat?",
   "id": "44360"
 }

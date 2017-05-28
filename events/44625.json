@@ -1,5 +1,23 @@
 {
   "title": "Kan Gotland konkurrera med Karibien som kryssningsdestination?",
+  "arranger": "Copenhagen Malmö Port AB - en del av Öresundshuset",
+  "times": [
+    {
+      "start": "2017-07-03T10:00:00.000Z",
+      "end": "2017-07-03T11:00:00.000Z"
+    }
+  ],
+  "type": "Föreläsning",
+  "area": "Besöksnäring",
+  "language": "Svenska",
+  "location": "Hästgatan 1",
+  "tags": [
+    "Besöksnäring",
+    "Kryssning",
+    "Miljö",
+    "Näringsliv",
+    "Östersjön"
+  ],
   "description": "Kryssningsresandet i världen ökar snabbt. Hur kan vi tillsammans attrahera fler resenärer till Östersjön, samtidigt som kryssningsindustrin tar fullt ansvar för hållbarhetsfrågor? Kan Visby bli en ny svensk nod för en näring som skapar jobb, nya företag och tillväxt i besöksindustrin?",
   "id": "44625"
 }

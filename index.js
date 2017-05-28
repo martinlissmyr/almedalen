@@ -39,7 +39,7 @@ app.use(serve("./public"));
 
 // Set up routes
 router.get("/", async function(ctx) {
-  var selectedTags = ctx.request.query.tags ? ctx.request.query.tags.split("|") : null;
+  var selectedTags = ctx.request.query.tags ? ctx.request.query.tags.split("|") : [];
 
   await ctx.render("index", {
     tags: program.tags,
@@ -49,7 +49,7 @@ router.get("/", async function(ctx) {
 });
 
 router.get("/events", async function(ctx) {
-  var selectedTags = ctx.request.query.tags ? ctx.request.query.tags.split("|") : null;
+  var selectedTags = ctx.request.query.tags ? ctx.request.query.tags.split("|") : [];
 
   await ctx.render("events", program.filterEvents(selectedTags));
 });

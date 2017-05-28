@@ -1,0 +1,50 @@
+{
+  "title": "Intervjuer, debatter och möten",
+  "arranger": "Dagens Samhälle",
+  "times": [
+    {
+      "start": "2017-07-02T07:00:00.000Z",
+      "end": "2017-07-02T15:30:00.000Z"
+    },
+    {
+      "start": "2017-07-03T07:00:00.000Z",
+      "end": "2017-07-03T15:30:00.000Z"
+    },
+    {
+      "start": "2017-07-04T07:00:00.000Z",
+      "end": "2017-07-04T15:30:00.000Z"
+    },
+    {
+      "start": "2017-07-05T07:00:00.000Z",
+      "end": "2017-07-05T15:30:00.000Z"
+    },
+    {
+      "start": "2017-07-06T07:00:00.000Z",
+      "end": "2017-07-06T15:30:00.000Z"
+    },
+    {
+      "start": "2017-07-07T07:00:00.000Z",
+      "end": "2017-07-07T15:30:00.000Z"
+    },
+    {
+      "start": "2017-07-08T07:00:00.000Z",
+      "end": "2017-07-08T15:30:00.000Z"
+    },
+    {
+      "start": "2017-07-09T07:00:00.000Z",
+      "end": "2017-07-09T11:00:00.000Z"
+    }
+  ],
+  "type": "Mötes- och debattplats",
+  "area": "Annat",
+  "language": "Svenska",
+  "location": "Cramérgatan, H305",
+  "tags": [
+    "Debatt",
+    "Ekonomi",
+    "Politik",
+    "Samhälle"
+  ],
+  "description": "Drygt 50 intervjuer och fem lunchdebatter med makthavare och andra tungviktare på vår scen. Hela veckan finns Dagens Samhälle på plats för möten och samtal i montern.",
+  "id": "44309"
+}

@@ -1,5 +1,23 @@
 {
   "title": "Insamling av plast i all ära men hur öka återvinningsgraden?",
+  "arranger": "Konsumentföreningen Stockholm",
+  "times": [
+    {
+      "start": "2017-07-04T11:30:00.000Z",
+      "end": "2017-07-04T12:30:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Hållbarhet",
+  "language": "Svenska",
+  "location": "Kilgränd 1",
+  "tags": [
+    "Forskning och innovation",
+    "Hållbar konsumtion",
+    "Hållbar livsstil",
+    "Hållbar utveckling",
+    "Återvinning"
+  ],
   "description": "Vi vill motivera våra medlemmar och andra konsumenter att återvinna sina plastförpackningar, men hur gör vi det när vi vet att delar av det som rubriceras \"återvunnet\" egentligen inte alls återvinns till nya produkter utan bränns upp?",
   "extendedDescription": "Hur kan återvinningsföretag, tillverkare och forskare samverka för att öka återvinningen av plast? Och vad är myndigheternas roll?\n\n",
   "id": "44349"

@@ -10,7 +10,6 @@ process.on('uncaughtException', function (err) {
   //console.log("Node NOT Exiting...");
 });
 
-
 var map = {
   "Arrangör:": "arranger",
   "Dag:": "times",
@@ -83,37 +82,18 @@ var almedalenEventScraper = function($) {
   return;
 }
 
-var storeQueue = [];
-function store(json) {
-  storeQueue.push(json);
-  runQueue();
-}
+var url = "http://www.almedalsveckan.info/event/user-view/";
 
-var queueIsBusy = false;
-function runQueue() {
-  if (queueIsBusy) {
-    return;
-  } 
-
-  if (storeQueue.length > 0) {
-    var blobToStore = storeQueue.shift();
-    queueIsBusy = true;
-    write("./events/" + blobToStore.id + ".json", JSON.stringify(blobToStore, null, 2), function() {
-      queueIsBusy = false;
-      runQueue();
-    });
-  }
-}
-
-router.on("http://www.almedalsveckan.info/event/user-view/:id").createStatic().scrape(almedalenEventScraper).then(function(data, utils) {
+router.on(url + ":id").createStatic().scrape(almedalenEventScraper).then(function(data, utils) {
   if (data) {
     data.id = utils.params.id;
-    console.log("Scraped " + data.id);
-    write("./events/" + data.id + ".json", JSON.stringify(data, null, 2));
+    write("./events/" + data.id + ".json", JSON.stringify(data, null, 2), function() {
+      console.log("Fetched " + data.id);
+    });
   }
 });
 
-for (var i = 45000;i < 46000; i++) {
-  router.route("http://www.almedalsveckan.info/event/user-view/" + i);
+for (var i = 46000;i < 47000; i++) {
+  router.route(url + i);
 }
 
