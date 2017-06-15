@@ -16,8 +16,18 @@
       <div class="EventList" id="event-list">{{> events events}}</div>
       <div class="Filters">
         <form id="filters">
-          <div class="Tags">
-            <h1 class="FilterGroupTitle">Valda ämnen</h1>
+          <div class="FilterGroup">
+            <h1 class="FilterGroupTitle">Dagar</h1>
+            {{#each days}}
+              <div class="Tag">
+                <input type="checkbox" id="{{this}}" {{#ifCond this "in" @root.selectedDays}}checked="checked" {{/ifCond}} name="days" value="{{
+                this}}">
+                <label for="{{this}}">{{prettyDay this}}</label>
+              </div>
+            {{/each}}
+          </div>
+          <div class="FilterGroup">
+            <h1 class="FilterGroupTitle">Ämnen</h1>
             {{#each tags}}
               <div class="Tag">
                 <input type="checkbox" id="{{this}}" {{#ifCond this "in" @root.selectedTags}}checked="checked" {{/ifCond}} name="tags" value="{{this}}">
@@ -30,21 +40,38 @@
     </div>
   </body>
   <script>
-    var filters = document.querySelector("#filters");
+    var filtersForm = document.querySelector("#filters");
     var eventList = document.querySelector("#event-list");
+    var filters = ["days", "tags"]
 
-    filters.addEventListener("change", function() {
-      var data = new FormData(filters);
-      var tags = data.getAll("tags");
-      var tagsQueryString = tags.length > 0 ? "tags=" + encodeURIComponent(tags.join("|")) : "";
+    /*function joinFilterItems(items) {
+      items.join("|", null, function(item) {
+        console.log(item);
+      });
+    }*/
 
-      window.history.replaceState({}, "", "?" + tagsQueryString);
+    function getQueryString(filterName) {
+      var selectedFilterItems = (new FormData(filtersForm)).getAll(filterName);
+      if (selectedFilterItems.length > 0) {
+        return filterName + "=" + encodeURIComponent(selectedFilterItems.join("|"));
+      }
+    }
 
-      fetch("/events?" + tagsQueryString).then(function(response) {
+    filtersForm.addEventListener("change", function() {
+      var queryStrings = filters.map(function(filterName) {
+        var qs = getQueryString(filterName);
+        if (qs != "") {
+          return qs;
+        }
+      });
+
+      window.history.replaceState({}, "", "?" + queryStrings.join("&"));
+
+      fetch("/events?" + queryStrings.join("&")).then(function(response) {
         return response.text();
       }).then(function(html) {
         eventList.innerHTML = html;
-      })
+      });
     });
   </script>
 </html>

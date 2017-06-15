@@ -40,18 +40,28 @@ app.use(serve("./public"));
 // Set up routes
 router.get("/", async function(ctx) {
   var selectedTags = ctx.request.query.tags ? ctx.request.query.tags.split("|") : [];
+  var selectedDays = ctx.request.query.days ? ctx.request.query.days.split("|") : [];
 
   await ctx.render("index", {
     tags: program.tags,
-    events: program.filterEvents(selectedTags),
-    selectedTags: selectedTags
+    days: program.days,
+    events: program.filterEvents({
+      tags: selectedTags,
+      days: selectedDays
+    }),
+    selectedTags: selectedTags,
+    selectedDays: selectedDays
   });
 });
 
 router.get("/events", async function(ctx) {
   var selectedTags = ctx.request.query.tags ? ctx.request.query.tags.split("|") : [];
+  var selectedDays = ctx.request.query.days ? ctx.request.query.days.split("|") : [];
 
-  await ctx.render("events", program.filterEvents(selectedTags));
+  await ctx.render("events", program.filterEvents({
+    tags: selectedTags,
+    days: selectedDays
+  }));
 });
 
 

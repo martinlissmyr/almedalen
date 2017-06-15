@@ -23,13 +23,13 @@ function padTime(i) {
 }
 
 
-function getPrettyDate(d, includeDate) {
+function getPrettyDate(d, includeDate, includeTime) {
   d = new Date(d);
 
   var locale = {
     "timeDelimiter": ".",
     "now": "nu",
-    "prettyDateFormat": "DD MONTH",
+    "prettyDateFormat": "DAY, DD MONTH",
     "today": "idag",
     "tomorrow": "i morgon",
     "yesterday": "igår",
@@ -53,17 +53,24 @@ function getPrettyDate(d, includeDate) {
       str = locale.yesterday;
     } else {
       str = locale.prettyDateFormat;
-      str = str.replace(/DAY, |DAY/, ""); // Do not show day if date is not this year
+      str = str.replace(/DAY/, locale.days[d.getDay()]);
       str = str.replace(/MONTH/, locale.months[d.getMonth()]);
       str = str.replace(/DD/, d.getDate());
       str = str.replace(/MM/, d.getMonth() + 1);
     }
   }
 
-  str += " " + padTime(d.getHours()) + locale.timeDelimiter + padTime(d.getMinutes());
+  if (includeTime) {
+    str += " " + padTime(d.getHours()) + locale.timeDelimiter + padTime(d.getMinutes());
+  }
   return str.trim();
 };
 
-module.exports = function(d1, d2) {
-  return getPrettyDate(d1, true) + " – " + getPrettyDate(d2, false);
+module.exports = {
+  prettyTimeSpan: function(d1, d2) {
+    return getPrettyDate(d1, true, false) + " – " + getPrettyDate(d2, false, false);
+  },
+  prettyDay: function(d) {
+    return getPrettyDate(d, true, false);
+  }
 }
