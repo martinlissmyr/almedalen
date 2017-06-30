@@ -1,10 +1,10 @@
 {
-  "title": "Ren energi för alla",
-  "arranger": "Energimarknadsinspektionen (Ei)",
+  "title": "Ren energi för alla – EU:s lagförslag på 45 minuter",
+  "arranger": "Energimarknadsinspektionen",
   "times": [
     {
-      "start": "2017-07-04T10:15:00.000Z",
-      "end": "2017-07-04T11:00:00.000Z"
+      "start": "2017-07-04T09:15:00.000Z",
+      "end": "2017-07-04T10:00:00.000Z"
     }
   ],
   "type": "Seminarium",
@@ -16,6 +16,6 @@
     "Energi",
     "EU"
   ],
-  "description": "Vad är EU:s lagpaket Ren energi för alla (Vinterpaketet) egentligen och vad betyder det för den svenska och den europeiska marknaden? Vi reder ut begreppen och samtalar med politiker.",
+  "description": "Vad är EU:s lagförslag Ren energi för alla i Europa (Vinterpaketet) egentligen och vad betyder det för den svenska och den europeiska marknaden? Vi reder ut begreppen och samtalar med politiker från Energikommissionen, bransch- och kundföreträdare.",
   "id": "45170"
 }

@@ -1,0 +1,24 @@
+{
+  "title": "Insyn, information och lite till - riksdagens öppna data",
+  "arranger": "Sveriges riksdag",
+  "times": [
+    {
+      "start": "2017-07-09T08:00:00.000Z",
+      "end": "2017-07-09T08:30:00.000Z"
+    }
+  ],
+  "type": "Föreläsning",
+  "area": "Demokrati",
+  "language": "Svenska",
+  "location": "Hamnplan, H221",
+  "tags": [
+    "Bildning",
+    "Demokrati",
+    "Forskning",
+    "Yttrandefrihet",
+    "Öppenhet"
+  ],
+  "description": "Riksdagens öppna data ger kunskap och viktig insyn i riksdagens arbete och beslut. Riksdagen är en självklar arena för kunskap om demokrati. I riksdagen finns unik information om beslut i riksdagen då och nu. Ta del av öppna data, lagstiftningsprocessen och politiska beslut.",
+  "extendedDescription": "Medarbetare på Riksdagsförvaltningen visar hur du kan använda öppna data för att söka och sammanställa statistik och information. ",
+  "id": "47218"
+}

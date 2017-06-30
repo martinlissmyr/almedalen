@@ -3,21 +3,21 @@
   "arranger": "Nätverket för byggekologi",
   "times": [
     {
-      "start": "2017-07-03T08:45:00.000Z",
-      "end": "2017-07-03T10:00:00.000Z"
+      "start": "2017-07-03T07:15:00.000Z",
+      "end": "2017-07-03T09:00:00.000Z"
     }
   ],
   "type": "Seminarium",
   "area": "Byggande",
   "language": "Svenska",
-  "location": "Södertorg 12 Innergården",
+  "location": "Södertorg 12, innergården",
   "tags": [
     "Bostäder",
     "Hållbar stadsutveckling",
     "Hållbart samhälle",
     "Innovation"
   ],
-  "description": "Hur möter vi de stora utmaningar vi har de kommande åren med att inkludera alla i samhället på ett hållbart sätt. Byggemenskaper - ett sätt att bygga hållbart samt IntersectionPoint - \"Diversity Drives Innovation.",
+  "description": "Hur möter vi de stora utmaningar vi har de kommande åren med att inkludera alla i samhället på ett hållbart sätt? Innovationsplattformen IntersectionPoint - \"Diversity Drives Innovation. Jute-Världens hållbaraste material. Bostadsenheterna eCon - \"Affordable - Transportable - Sustainable\"",
   "extendedDescription": "Vi vill visa på goda exempel för att skapa ett hållbart samhälle samt få igång en frågestund och diskussion efter föredragen. Dagens första programpunkt. ",
   "id": "45904"
 }

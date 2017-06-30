@@ -1,0 +1,24 @@
+{
+  "title": "Hur kan vi bättre och smartare bekämpa cancer?",
+  "arranger": "Capgemini, SAP",
+  "times": [
+    {
+      "start": "2017-07-05T13:15:00.000Z",
+      "end": "2017-07-05T14:00:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Digitalisering",
+  "language": "Svenska",
+  "location": "Mellangatan 7",
+  "tags": [
+    "Affärsmässig samhällsnytta",
+    "Cancer",
+    "Digitalisering",
+    "E-hälsa",
+    "Sjukvård"
+  ],
+  "description": "Människor lever längre och medellivslängden ökar. Mängden data från vårdhändelser ökar exponentiellt. Hur kan denna enorma mängd data användas för att analysera framtida cancerfall och prediktera den bästa vården? Vilka är nycklarna till snabba framsteg? Hur kan vi använda gendata i utvecklingen?\n",
+  "extendedDescription": "I Sverige står en förbättring av cancervården högt uppe på agendan. Medan argumenten ofta kretsar kring höga kostnader för behandling och långa väntetider, pratas det sällan om hur vi kan accelerera cancerforskning. Nyckeln till snabbare framsteg ligger i att kunna länka samman forskningsframsteg, behandling och patientdata på ett smartare sätt. Hur får vi fram effektivare medicin och ger onkologer bättre underlag för individuell behandling så snabbt som möjligt? Hur kan vi använda gendata i utvecklingen? Hur kan vi skapa ett mer systematiskt utbyte av data och detaljerade analyser inom hela vårdkedjan och mellan flera länder? I seminariet berättar olika aktörer inom onkologi hur de med hjälp av digitala verktyg gör sig redo att övervinna dagens informations- och analysgap genom att samla in och bearbeta patientdata och hur samarbete leder till bättre och snabbare resultat.",
+  "id": "46069"
+}

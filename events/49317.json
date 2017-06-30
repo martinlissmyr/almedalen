@@ -1,0 +1,24 @@
+{
+  "title": "Media i en brytningstid",
+  "arranger": "Region Västerbotten",
+  "times": [
+    {
+      "start": "2017-07-05T06:00:00.000Z",
+      "end": "2017-07-05T07:00:00.000Z"
+    }
+  ],
+  "type": "Samtal",
+  "area": "Media/journalistik",
+  "language": "Svenska",
+  "location": "Novgorodgränd 1",
+  "tags": [
+    "Alternativa fakta",
+    "Journalistik",
+    "Källkritik",
+    "Media",
+    "Regional utveckling"
+  ],
+  "description": "Centralisering av journalistik och mediamakt beskrivs ofta som ett problem för Sverige. Går utvecklingen vända? Hur ser framtidens journalistik ut?",
+  "extendedDescription": "År 2015 gjorde Institutet för mediestudier en undersökning av den svenska journalistkåren. Undersökningen visar att den absoluta majoriteten – 40 procent – bor i Stockholms tätort samtidigt som stora delar av Sverige är underrepresenterade av journalister. I vissa kommuner finns det inte några journalister alls. Detta riskerar att påverka de bilder av samhället som sprids. \n\nVilka strategier finns för att möta strukturomvandlingen inom media? Hur ser framtidens journalistik ut? Går utvecklingen att vända? Är medskapande journalistik ens ett alternativ med tanke på kvalitet, källgranskning och uppkomsten av så kallade alternativa fakta? ",
+  "id": "49317"
+}

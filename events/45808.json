@@ -1,0 +1,20 @@
+{
+  "title": "Går vägen mot framtiden i cirklar?",
+  "arranger": "HP",
+  "times": [
+    {
+      "start": "2017-07-03T13:00:00.000Z",
+      "end": "2017-07-03T13:45:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Hållbarhet",
+  "language": "Svenska",
+  "location": "Gotlands museum, Strandgatan 14",
+  "tags": [
+    "Hållbarhet"
+  ],
+  "description": "Kan våra it-produkter återanvändas innan de återvinns? Innebär fler 3D-skrivare att transportbehovet minskar? Vi samtalar om IT och cirkulär ekonomi. ",
+  "extendedDescription": "Ska vi minska miljöpåverkan måste det finnas ett återvinningstänk redan på konstruktionsbordet. Vi måste också hitta affärsmodeller som ger produkterna ett längre liv. Med 3D skrivare kan vi minska transportbehoven i en rad branscher, men hur får vi det att hända?",
+  "id": "45808"
+}

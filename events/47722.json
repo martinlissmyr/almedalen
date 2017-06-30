@@ -1,0 +1,23 @@
+{
+  "title": "Varför behöver skolan öppna, administrativa system?",
+  "arranger": "Open Source Sweden, imCode Partner AB",
+  "times": [
+    {
+      "start": "2017-07-05T07:00:00.000Z",
+      "end": "2017-07-05T07:45:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Digitalisering",
+  "language": "Svenska",
+  "location": "Björkanderska, Skeppsbron 24",
+  "tags": [
+    "Digitalisering",
+    "IT",
+    "Skola",
+    "Öppenhet"
+  ],
+  "description": "Ett av de större administrativa problemen i svensk skola är att IT-systemen är stängda och inte tillåter innehåll och data att flöda fritt till och från andra leverantörers system. Men det finns alternativ för att lösa problemen med dagens proprietära och stängda lösningar.",
+  "extendedDescription": "Idag levereras de administrativa system som används i skolan av några få leverantörer som har proprietära och stängda lösningar. \n\nDetta skapar administrativa problem för skolan som ofta upplever systemen som föråldrade och långsamma bl a eftersom informationen inte tillåts flöda fritt. \n\nStängda systemlösningar försenar utvecklingen eftersom inte andra leverantörer kan samverka med dessa system.\n\nI projektet iVIS – innovativt Verksamhetssystem I Skolan – har föreningen Sambruk (110 kommuner och regioner i samverkan) tillsammans med imCode Partner och finansiering från VINNOVA arbetat fram en öppen lösning på skolans administrativa problem. iVIS-projektet tänker utanför ramarna och löser problemen med inlåsning. Projektet ökar utvecklingshastigheten för skolans administration och har sått frön till hur all form av offentlig IT kan utvecklas. \n\nTillsammans fortsätter vi nu framåt. Kom och diskutera vad som ska hända med iVIS framöver!",
+  "id": "47722"
+}

@@ -3,8 +3,8 @@
   "arranger": "Försvarshögskolan",
   "times": [
     {
-      "start": "2017-07-05T14:45:00.000Z",
-      "end": "2017-07-05T15:30:00.000Z"
+      "start": "2017-07-05T13:45:00.000Z",
+      "end": "2017-07-05T14:30:00.000Z"
     }
   ],
   "type": "Seminarium",
@@ -17,6 +17,6 @@
     "Samhälle",
     "Säkerhetspolitik"
   ],
-  "description": "Alla parter tycks vara överens om att rekryteringen till Försvarsmakten är en utmaning. Det talas om nödvändigheten av fler vägar in i försvarsyrket, en \"bredare tratt\". Ett panelsamtal om nya ingångar, att nå en bredare bas och att höja yrkets status. Hur attraherar vi unga till försvaret?",
+  "description": "Försvarsmaktens rekryteringsutmaning måste lösas. En del menar att fler vägar in i försvarsyrket behövs för att ge en bredare \"tratt\". Detta panelsamtal diskuterar nya rekryteringsingångar, hur vi breddar rekryteringsbasen samt hur vi höjer det militära yrkets status.",
   "id": "45700"
 }

@@ -1,0 +1,22 @@
+{
+  "title": "Dagens politiska spaning",
+  "arranger": "SVT",
+  "times": [
+    {
+      "start": "2017-07-05T07:30:00.000Z",
+      "end": "2017-07-05T08:00:00.000Z"
+    }
+  ],
+  "type": "Samtal",
+  "area": "Media/journalistik",
+  "language": "Svenska",
+  "location": "Tage Cervins gata, H415",
+  "tags": [
+    "Affärsmässig samhällsnytta",
+    "Innovation",
+    "Journalistik"
+  ],
+  "description": "Halvvägs in i politikerveckan. Hur står det till med de svenska politiska partierna?",
+  "extendedDescription": "Professor emeritus Sören Holmberg om läget i opinionen.",
+  "id": "47694"
+}

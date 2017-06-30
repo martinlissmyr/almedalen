@@ -1,0 +1,24 @@
+{
+  "title": "Bussbana - ett verktyg i stadsutvecklingen",
+  "arranger": "BIL Sweden, Sveriges Bussföretag",
+  "times": [
+    {
+      "start": "2017-07-04T07:00:00.000Z",
+      "end": "2017-07-04T07:45:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Kommunikationer",
+  "language": "Svenska",
+  "location": "Uppsala universitet, Campus Gotland, Cramérgatan 3",
+  "tags": [
+    "Klimat",
+    "Kollektivtrafik",
+    "Miljö",
+    "Transport",
+    "Upphandling"
+  ],
+  "description": "Konceptet Bus Rapid Transit (bussbana) innebär att busstrafik planeras och byggs som ett sammanhängande system med fordon och infrastruktur. På så sätt säkerställs en hög transportkapacitet och strukturerande effekt i stadsbyggnaden. Hur kan ett systemtänk i busstrafiken uppmuntras av olika aktörer?",
+  "extendedDescription": "En bussbana skiljer sig inte från spårtrafik, förutom möjligheten att vara mer flexibel med infrastrukturen och att kunna köra andra fordon, exempelvis blåljus eller gods, i systemet. En bussbana lämpar sig också som arena för att introducera självkörande fordon. Exempel på frågor:\nHur ser utvecklingen av BRT-konceptet ut internationellt respektive i Sverige?\nVad kan möjliggöra att busstrafiken planeras som system – behövs en bättre samordning av transport- och annan stadsplanering?\nVarför sker inte teknikneutrala upphandlingar av hela kollektivtrafiksystem, så att bussystem på allvar kan få konkurrera med spårlösningar?",
+  "id": "46963"
+}

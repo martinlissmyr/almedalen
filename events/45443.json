@@ -3,8 +3,8 @@
   "arranger": "Sveriges Radio",
   "times": [
     {
-      "start": "2017-07-06T08:50:00.000Z",
-      "end": "2017-07-06T10:10:00.000Z"
+      "start": "2017-07-05T09:00:00.000Z",
+      "end": "2017-07-05T10:00:00.000Z"
     }
   ],
   "type": "Debatt",
@@ -18,6 +18,6 @@
     "Politik",
     "Samhällsanalyser"
   ],
-  "description": "Public service-bolagens sändningstillstånd är tungt och mäktigt och även svårkonkurrerat, vad innebär det för kommersiella aktörer som anser sig utmanövrerade och utkonkurrerade?",
+  "description": "Hur påverkar Public Service mediemarknaden? Vad innebär det för kommersiella aktörer som anser sig utmanövrerade? Vad innebär det för kommersiella aktörer att verka i ett land med etablerade och oberoende Public Servicebolag?",
   "id": "45443"
 }

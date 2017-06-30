@@ -1,0 +1,23 @@
+{
+  "title": "Hur flyger flygskatten?",
+  "arranger": "Jordens Vänner",
+  "times": [
+    {
+      "start": "2017-07-03T12:00:00.000Z",
+      "end": "2017-07-03T12:45:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Infrastruktur",
+  "language": "Svenska",
+  "location": "Uppsala universitet, Campus Gotland, Cramérgatan 3",
+  "tags": [
+    "Flygskatt",
+    "Hållbarhet",
+    "Infrastruktur",
+    "Klimat",
+    "Miljöpolitik"
+  ],
+  "description": "Flygskattens införande diskuteras i många läger, bland annat genom intensiva lobbykampanjer från flygbranschen samtidigt kommer ständigt nya larmrapporter om ökade temperaturer och behov av klimatåtgärder. Jordens Vänner samlar en panel för att diskutera flygskattens för- och nackdelar. ",
+  "id": "47952"
+}

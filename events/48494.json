@@ -1,0 +1,23 @@
+{
+  "title": "Spännande intervjuer och vassa debatter",
+  "arranger": "Sveriges Radio, Studio Ett i P1",
+  "times": [
+    {
+      "start": "2017-07-03T14:00:00.000Z",
+      "end": "2017-07-03T14:45:00.000Z"
+    }
+  ],
+  "type": "Samtal",
+  "area": "Media/journalistik",
+  "language": "Svenska",
+  "location": "Donnersgatan",
+  "tags": [
+    "Analys",
+    "Debatt",
+    "Media",
+    "Samhällsutveckling",
+    "Samtal"
+  ],
+  "description": "Angelägna debatter, kvalificerade analyser och spännande gäster i direktsänd aktualitetsradio. Studio Ett sänder direkt i P1.",
+  "id": "48494"
+}

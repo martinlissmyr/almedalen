@@ -1,0 +1,24 @@
+{
+  "title": "Utbildning är en förutsättning för jämlikhet",
+  "arranger": "Kommunal",
+  "times": [
+    {
+      "start": "2017-07-03T11:30:00.000Z",
+      "end": "2017-07-03T12:30:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Utbildning",
+  "language": "Svenska",
+  "location": "Hamnplan 3D",
+  "tags": [
+    "Arbetsmarknad",
+    "Jämlikhet",
+    "Utbildning",
+    "Välfärd",
+    "Yrkeskategorier"
+  ],
+  "description": "Den kommunala vuxenutbildningen är en förutsättning för jämlikhet på svensk arbetsmarknad samt för personalförsörjningen och yrkesutvecklingen inom välfärden. Fokus på det framtida behovet av yrkesutbildad personal inom välfärden.",
+  "extendedDescription": "Det handlar både om Komvux roll med breda gymnasiala grundutbildningar och fördjupade kunskaper inom ett yrkesområde och dess avgörande roll vid omställning.",
+  "id": "47285"
+}

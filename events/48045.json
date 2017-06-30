@@ -1,0 +1,23 @@
+{
+  "title": "Nu är elbilen här på riktigt. Hur löser vi laddinfrastrukturen?",
+  "arranger": "Ellevio AB",
+  "times": [
+    {
+      "start": "2017-07-03T12:00:00.000Z",
+      "end": "2017-07-03T13:00:00.000Z"
+    }
+  ],
+  "type": "Föreläsning",
+  "area": "Infrastruktur",
+  "language": "Svenska",
+  "location": "Södra Kyrkogatan 8",
+  "tags": [
+    "El",
+    "Energieffektivisering",
+    "Fossilfri transportsektor",
+    "Framtid",
+    "Laddbara fordon"
+  ],
+  "description": "Inom några år kommer räckviddsfrågan att vara löst. Men då återstår den stora utmaningen: en fungerande infrastruktur för laddning. Enbart i Storstockholm/Mälardalen beräknas 200 000 laddningsstolpar behövas.  Idag finns cirka 750 (i Stockholms län).\n",
+  "id": "48045"
+}

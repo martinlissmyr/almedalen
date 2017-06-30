@@ -1,0 +1,22 @@
+{
+  "title": "Vilken roll har elbilen i ett multimodalt resesystem?",
+  "arranger": "CLEVER Sverige AB",
+  "times": [
+    {
+      "start": "2017-07-04T07:30:00.000Z",
+      "end": "2017-07-04T08:45:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Infrastruktur",
+  "language": "Svenska",
+  "location": "Teaterskeppet, fartyg",
+  "tags": [
+    "Elbilar",
+    "Infrastruktur",
+    "Mobilitet"
+  ],
+  "description": "Omställningen till ett fossilfritt transportsystem är beroende av valet av drivmedel, tillhörande infrastruktur och kanske även på beteende och sättet vi ser på mobilitet. Ska alla våra resor göras i egen bil eller är det möjligt att kombinera den egna (el)bilen med andra hållbara transportmedel?",
+  "extendedDescription": "Sveriges mål är att klimatutsläppen från biltrafiken ska minska med 70 procent fram till 2030 jämfört med nivån 2010. Utsläppsfria drivmedel som el är ett självklart steg på vägen, likaså en fungerande infrastruktur för elbilar. Även ett nytt synsätt på mobilitet kan vara nyckeln till framgång. Multimodalt resande, kombinerad mobilitet eller mobilitet som tjänst – alla benämningar på samma tema. Vilka verktyg, system och kompletterande infrastruktur behövs för att gynna ett förändrat beteende? Att utveckla digitala tjänster som ger en mer sömlös upplevelse vid byte av transportmedel är ett verktyg. Men räcker det som incitament? Ur ett infrastrukturperspektiv kräver omställningen inte bara nya system för flexibla resor utan även samverkan mellan offentliga och privata aktörer. Traditionellt sett pratar man ofta om hållbart resande med kollektivtrafiken som grund. Kanske bör vi utmana och utveckla begreppet kollektivtrafik? Vilken är den gemensamma nämnaren för ett hållbart resesystem?",
+  "id": "48330"
+}

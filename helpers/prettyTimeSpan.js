@@ -68,7 +68,7 @@ function getPrettyDate(d, includeDate, includeTime) {
 
 module.exports = {
   prettyTimeSpan: function(d1, d2) {
-    return getPrettyDate(d1, true, false) + " – " + getPrettyDate(d2, false, false);
+    return getPrettyDate(d1, true, true) + " – " + getPrettyDate(d2, false, true);
   },
   prettyDay: function(d) {
     return getPrettyDate(d, true, false);

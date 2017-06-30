@@ -1,0 +1,21 @@
+{
+  "title": "Dagens politiska spaning",
+  "arranger": "SVT",
+  "times": [
+    {
+      "start": "2017-07-07T07:30:00.000Z",
+      "end": "2017-07-07T08:00:00.000Z"
+    }
+  ],
+  "type": "Samtal",
+  "area": "Media/journalistik",
+  "language": "Svenska",
+  "location": "Tage Cervins gata, H415",
+  "tags": [
+    "Journalistik",
+    "Politik"
+  ],
+  "description": "Vad händer under årets politikervecka?",
+  "extendedDescription": "SVTs politiska reportrar kommenterar den senaste veckan politiska händelser.",
+  "id": "48062"
+}

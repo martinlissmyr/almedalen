@@ -1,0 +1,23 @@
+{
+  "title": "Jakten på talangerna",
+  "arranger": "Vattenfall",
+  "times": [
+    {
+      "start": "2017-07-05T05:30:00.000Z",
+      "end": "2017-07-05T06:30:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Energi",
+  "language": "Svenska",
+  "location": "Mellangatan 9",
+  "tags": [
+    "Energi",
+    "Framtid",
+    "Ingenjörer",
+    "Kompetens",
+    "Mångfald"
+  ],
+  "description": "Var finns energibranschens framtida medarbetare? Hur blir mångfald och inkludering en framgångsfaktor? Tillsammans med representanter från energisektorn och tongivande experter från universitet, media, politik och organisationer diskuterar vi utmaningarna.",
+  "id": "47293"
+}

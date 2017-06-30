@@ -3,8 +3,8 @@
   "arranger": "Svenskt Näringsliv, Teknikföretagen, Almega, Transportföretagen",
   "times": [
     {
-      "start": "2017-07-03T08:50:00.000Z",
-      "end": "2017-07-03T09:50:00.000Z"
+      "start": "2017-07-03T07:50:00.000Z",
+      "end": "2017-07-03T08:50:00.000Z"
     }
   ],
   "type": "Seminarium",
@@ -15,7 +15,7 @@
     "Avtalsrörelsen",
     "Jobb"
   ],
-  "description": "Konfliktreglerna är en lagstiftning som kräver politiska beslut för att ändras.  Under seminariet ger vi tre olika perspektiv på obalansen: konflikthotens påverkan på Avtal17, hamnkonflikt trots gällande kollektivavtal och samhällsfarliga konflikter. Vilka lösningar ser arbetsmarknadens parter?",
-  "extendedDescription": "Seminariet presenterar tre olika perspektiv på konfliktreglerna som vår politikerpanel får kommentera: 1. Hur påverkade konfliktreglerna vårens avtalsförhandlingar; nivån, innehållet och i vidare bemärkelse konkurrenskraften och samhällsekonomin? Pressade risken om strejk upp nivån på märket? 2. I Skandinaviens största hamn, Göteborgs hamn, stoppas verksamheten trots att arbetsgivaren har ett gällande kollektivavtal. Operatören APM Terminals har tvingats dra ner på verksamheten och exportföretag har vittnat om hur osäkerheten slår mot deras varuflöde. 3. De uppgörelser som reglerar samhällsfarliga strejker är från en tid då IT och internet inte fanns. Idag finns det många samhällsviktiga verksamheter som riskerar att störas i samband med konflikter på arbetsmarknaden. Seminariet är en del av Industrin tar matchen.",
+  "description": "Konfliktreglerna är en lagstiftning som kräver politiska beslut för att ändras. Under seminariet ger vi olika perspektiv på obalansen: konflikthotens påverkan på Avtal17 och samhällsfarliga konflikter. Vilka lösningar ser arbetsmarknadens parter?",
+  "extendedDescription": "Seminariet presenterar två olika perspektiv på konfliktreglerna som vår politikerpanel kommenterar: 1. Hur påverkade konfliktreglerna vårens avtalsförhandlingar; nivån, innehållet och i vidare bemärkelse konkurrenskraften och samhällsekonomin? Pressade risken om strejk upp nivån på märket? 2. De uppgörelser som reglerar samhällsfarliga strejker är från en tid då IT och internet inte fanns. Idag finns det många samhällsviktiga verksamheter som riskerar att störas i samband med konflikter på arbetsmarknaden. Seminariet är en del av Industrin tar matchen.",
   "id": "45058"
 }

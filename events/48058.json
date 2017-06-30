@@ -1,0 +1,20 @@
+{
+  "title": "Dagens politiska spaning",
+  "arranger": "SVT",
+  "times": [
+    {
+      "start": "2017-07-06T07:30:00.000Z",
+      "end": "2017-07-06T08:00:00.000Z"
+    }
+  ],
+  "type": "Samtal",
+  "area": "Media/journalistik",
+  "language": "Svenska",
+  "location": "Tage Cervins gata, H415",
+  "tags": [
+    "Journalistik",
+    "Politik"
+  ],
+  "description": "Politikerveckan i Almedalen kommenteras av SVTs politiska reportrar varje morgon.",
+  "id": "48058"
+}

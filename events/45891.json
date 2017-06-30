@@ -1,10 +1,10 @@
 {
-  "title": "Kollektivtrafik och självkörande fordon - hur ser framtiden ut?",
+  "title": "Kollektivtrafik och självkörande fordon – hur ser framtiden ut?",
   "arranger": "Svensk Kollektivtrafik, Västtrafik",
   "times": [
     {
-      "start": "2017-07-04T14:30:00.000Z",
-      "end": "2017-07-04T15:00:00.000Z"
+      "start": "2017-07-04T13:30:00.000Z",
+      "end": "2017-07-04T14:00:00.000Z"
     }
   ],
   "type": "Seminarium",
@@ -19,5 +19,6 @@
     "Samhällsbyggande"
   ],
   "description": "Hur bör samhället förbereda sig och planera inför ökad flotta av självkörande fordon för att det ska bli hållbart? På seminariet presenteras olika scenarier samt en internationell utblick men också kopplingen till kollektivtrafiken och kombinerad mobilitet. ",
+  "extendedDescription": "Föreställ dig ett scenario där alla invånare erbjuds prisvärda, hållbara och praktiska mobilitetslösningar med självkörande fordon. Städer spelar en avgörande roll som motorer i ekonomin och som platser för kreativitet och innovation. Ankomsten av förarlösa fordon representerar en unik möjlighet för en förändring i städerna och kan leda till än mer hållbara, konkurrenskraftiga och grönare städer - men bara om offentliga myndigheter och Kollektivtrafikhuvudmän tar en aktiv roll då självkörande fordon dramatiskt kan förändra våra städer. Faktum är att en framtid med automatiska fordon kan ha olika resultat beroende på hur de kommer att regleras och användas. Kommer de att leda till ännu fler bilar på vägarna och mer trängsel i staden? Eller kommer de att bidra till att forma hållbara och levande städer med mer plats, färre fordon på vägarna och en högre livskvalitet? Framtiden med självkörande fordon är snart här och vi måste aktivt välja hur vi vill forma den.",
   "id": "45891"
 }

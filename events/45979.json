@@ -3,8 +3,8 @@
   "arranger": "Capgemini",
   "times": [
     {
-      "start": "2017-07-05T07:45:00.000Z",
-      "end": "2017-07-05T08:45:00.000Z"
+      "start": "2017-07-05T06:45:00.000Z",
+      "end": "2017-07-05T07:45:00.000Z"
     }
   ],
   "type": "Seminarium",
@@ -18,7 +18,7 @@
     "GDPR",
     "Integritet"
   ],
-  "description": "Hela samhället kommer att beröras av EU:s nya dataskyddsreform General Data Protection Regulation (GDPR). Hur påverkar reformen myndigheter och företag? Hur gör offentlig sektor och företag för att inte bryta mot lagen? Möjligheter eller begränsningar?",
-  "extendedDescription": "EU:s nya dataskyddsreform GDPR träder i kraft 2018. GDPR kommer att få stora konsekvenser för samhället då alla som behandlar personuppgifter berörs. Brister i personuppgiftshanteringen kan leda till dryga böter. Det finns hela tiden en målkonflikt mellan personlig integritet och möjligheten att digitalisera samhället. Eva Nilsson, jurist vid SCB och arbetar med EU:s dataskyddsreform på Finansdepartement går igenom den nya lagen. Sedan följer en paneldiskussion.Hur kommer Sverige att tolka lagen och hur kommer detta att påverka myndigheternas arbete? Vilka åtgärder måste vidtas för att inte riskera böter? Vilket ledarskap krävs för att sätta och hantera de nya reglerna?Vad kommer att krävas av digitala system? I och med kravet på omvänd bevisföring, hur kan myndigheter säkerställa att de inte bryter mot lagen? Vad kan vi lära av andra EU-länders jobb med personlig integritet?",
+  "description": "Hela samhället kommer att beröras av EU:s nya dataskyddsreform General Data Protection Regulation (GDPR). Hur påverkar reformen myndigheter och företag? Hur gör offentlig sektor och företag för att inte bryta mot lagen? Vad finns det för möjligheter och begränsningar?",
+  "extendedDescription": "EU:s nya dataskyddsreform GDPR träder i kraft 2018. GDPR kommer att få stora konsekvenser för samhället då alla som behandlar personuppgifter berörs. Brister i personuppgiftshanteringen kan leda till dryga böter. Det finns hela tiden en målkonflikt mellan personlig integritet och möjligheten att digitalisera samhället. Eva Nilsson, chefsjurist vid SCB, som för närvarande arbetar med dataskyddsreformen på Finansdepartement ger en presentation av det nya regelverket. Därefter följer en paneldiskussion. Hur kommer Sverige att tolka bestämmelserna och hur kommer detta att påverka myndigheternas arbete? Vilka åtgärder måste vidtas för att inte riskera böter? Vilket ledarskap krävs för att sätta och hantera de nya reglerna? Vad kommer att krävas av digitala system? I och med kravet på omvänd bevisföring, hur kan myndigheter säkerställa att de inte bryter mot regelverket? Vad kan vi lära av andra EU-länders jobb med personlig integritet?\n",
   "id": "45979"
 }

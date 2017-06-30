@@ -1,10 +1,10 @@
 {
-  "title": "Konstruktiv journalistik när allt är svart",
+  "title": "När media fokuserar på elände och polariserar debatten, hur kan journalistiken bli mer konstruktiv?",
   "arranger": "Sveriges Radio",
   "times": [
     {
-      "start": "2017-07-07T08:50:00.000Z",
-      "end": "2017-07-07T10:10:00.000Z"
+      "start": "2017-07-07T08:00:00.000Z",
+      "end": "2017-07-07T09:00:00.000Z"
     }
   ],
   "type": "Debatt",
@@ -18,6 +18,6 @@
     "Media",
     "Politik"
   ],
-  "description": "Media påverkar vår världsbild, därför borde också konstruktiv journalistik få ta plats. Är det förskönande eller viktigt för en mer flernyanserad bild av vår verklighet?",
+  "description": "Media har en tendens att fokusera på konflikter, därför provar allt fler nyhetsmedier nya sätt att bedriva journalistik. Ett annat synsätt håller på att växa fram. Ofta under rubriken konstruktiv journalistik. Finns det risk för att detta förhållningssätt förskönar verkligheten?",
   "id": "45463"
 }

@@ -1,0 +1,21 @@
+{
+  "title": "Dagens politiska spaning",
+  "arranger": "SVT",
+  "times": [
+    {
+      "start": "2017-07-03T07:30:00.000Z",
+      "end": "2017-07-03T08:00:00.000Z"
+    }
+  ],
+  "type": "Samtal",
+  "area": "Barn/ungdom",
+  "language": "Svenska",
+  "location": "Tage Cervins gata, H415",
+  "tags": [
+    "Barn och ungdomar",
+    "Journalistik"
+  ],
+  "description": "Vad händer under Politikerveckan? Vad är värt att veta och inte veta?\nVi startar varje dag med en politisk spaning. ",
+  "extendedDescription": "SVTs politiske kommentator Mats Knutson ger sin syn på det politiska läget.\nVad sa Jonas Sjöstedt i går och vad ska Jan Björklund säga idag? Hur påverkas hela Almedalen av att statsministern inte ens kommer hit? Här får du allt du behöver veta inför politikerveckan.",
+  "id": "47475"
+}

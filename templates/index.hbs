@@ -13,7 +13,6 @@
   </head>
   <body>
     <div class="Program">
-      <div class="EventList" id="event-list">{{> events events}}</div>
       <div class="Filters">
         <form id="filters">
           <div class="FilterGroup">
@@ -37,6 +36,10 @@
           </div>
         </form>
       </div>
+      <div class="EventList">
+        <h1 class="SiteHeader">Almedalen 2017</h1>
+        <div id="event-list">{{> events events}}</div>
+      </div>
     </div>
   </body>
   <script>
@@ -44,24 +47,22 @@
     var eventList = document.querySelector("#event-list");
     var filters = ["days", "tags"]
 
-    /*function joinFilterItems(items) {
-      items.join("|", null, function(item) {
-        console.log(item);
-      });
-    }*/
-
     function getQueryString(filterName) {
+      var queryString;
       var selectedFilterItems = (new FormData(filtersForm)).getAll(filterName);
       if (selectedFilterItems.length > 0) {
-        return filterName + "=" + encodeURIComponent(selectedFilterItems.join("|"));
+        queryString = filterName + "=" + selectedFilterItems.map(function(str) { return encodeURIComponent(str); }).join("|");
       }
+      return queryString;
     }
 
     filtersForm.addEventListener("change", function() {
-      var queryStrings = filters.map(function(filterName) {
+      var queryStrings = [];
+
+      filters.forEach(function(filterName) {
         var qs = getQueryString(filterName);
-        if (qs != "") {
-          return qs;
+        if (qs) {
+          queryStrings.push(qs);
         }
       });
 

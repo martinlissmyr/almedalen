@@ -1,16 +1,16 @@
 {
-  "title": "Hur kan robotik förebygga arbetsskada på jobbet?",
+  "title": "Hur kan robotik skapa en god arbetsmiljö och förebygga arbetsskada?",
   "arranger": "1,6 & 2,6 miljonerklubben",
   "times": [
     {
-      "start": "2017-07-05T12:30:00.000Z",
-      "end": "2017-07-05T13:10:00.000Z"
+      "start": "2017-07-05T13:10:00.000Z",
+      "end": "2017-07-05T13:50:00.000Z"
     }
   ],
   "type": "Seminarium",
   "area": "Vård och omsorg",
   "language": "Svenska",
-  "location": "Länsstyrelsens nedre trädgård, Korsgatan 4",
+  "location": "Korsgatan 4",
   "tags": [
     "Arbetsmiljö",
     "Forskning och innovation",
@@ -18,7 +18,7 @@
     "Robotisering",
     "Samhällsekonomi"
   ],
-  "description": "Människor behöver hålla längre på jobbet. Har arbetsgivare råd att människor går sönder på jobbet? Hur kan robotteknologier hjälpa? Vilka är dessa teknologier och vem bär ansvaret att införa dem på arbetsplatser där de behövs?",
-  "extendedDescription": "I många länder ska människor arbeta längre. Det innebär också att fler kommer jobba sig in i en förslitning. Samtidigt kommer automatisering in i arbetslivet och hotar att ersätta en del arbetsuppgifter. Det sätter större press på att människor behöver hålla längre på jobbet, samtidigt som de behöver bli mer resurseffektiva. Hur kan robotteknologier komplettera och göra människor bättre i sina jobb, istället för att ersätta människan?",
+  "description": "Människor behöver hålla längre på jobbet. Har arbetsgivare råd att människor ska gå sönder på jobbet? Hur kan robotteknologier hjälpa? Vilka är dessa teknologier och vem bär ansvaret att införa dem på arbetsplatser där de behövs?",
+  "extendedDescription": "I många länder ska människor arbeta längre. Det innebär också att fler kommer jobba in sig i en förslitning. Samtidigt kommer automatisering in i arbetslivet och hotar ersätta en del arbetsuppgifter. Det sätter större press på att människor dels behöver hålla längre på jobbet, samtidigt som de behöver bli mer resurseffektiva. Hur kan robotteknologier komplettera och göra människor bättre i sina jobb, istället för att ersätta människan?",
   "id": "45965"
 }

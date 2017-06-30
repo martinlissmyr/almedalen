@@ -8,8 +8,18 @@ HTML, BODY {
   font-family: "Libre Franklin", "helvetica neue", "helvetica", "arial", "sans-serif";
   font-size: 16px;
   line-height: 20px;
-  color: #50312F;
+  color: #1F1818;
   height: 100%;
+}
+
+.SiteHeader {
+  padding-bottom: 20px;
+  margin: 0 0 20px 0;
+  border-bottom: 1px solid rgba(0,0,0,.1);
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 35px;
+  color: #3f6c45;
 }
 
 .Program {
@@ -19,14 +29,14 @@ HTML, BODY {
 }
 
 .Filters {
-  flex-grow: 1;
+  flex-grow: 0;
   flex-shrink: 0;
-  width: 300px;
+  width: 350px;
   box-sizing: border-box;
-  padding: 40px;
-  background: lighten(#e4ea8c, 20%);;
+  padding: 40px 20px;
+  background: #374552;
   height: 100%;
-  overflow: scroll;
+  overflow: auto;
 }
 
 .EventList {
@@ -34,7 +44,6 @@ HTML, BODY {
   flex-shrink: 1;
   box-sizing: border-box;
   padding: 40px;
-  max-width: 600px;
   height: 100%;
   overflow: scroll;
 }
@@ -46,6 +55,6 @@ HTML, BODY {
 .FilterGroupTitle {
   font-size: 20px;
   font-weight: bold;
-  color: #3f6c45;
+  color: #E4EA8C;
   margin: 0 0 10px 0;
 }

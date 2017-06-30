@@ -1,0 +1,21 @@
+{
+  "title": "Sverige idag – hur skildras Sverige i SVT?",
+  "arranger": "SVT",
+  "times": [
+    {
+      "start": "2017-07-07T11:15:00.000Z",
+      "end": "2017-07-07T12:00:00.000Z"
+    }
+  ],
+  "type": "Samtal",
+  "area": "Media/journalistik",
+  "language": "Svenska",
+  "location": "Tage Cervins gata, H415",
+  "tags": [
+    "Journalistik",
+    "Politik"
+  ],
+  "description": "Hur bevakar SVT hela Sverige? Vilka synpunkter får redaktionen bakom Sverige Idag? Vilka frågor borde bevakas bättre?",
+  "extendedDescription": "Sverige idag sänds varje vardag från Umeå. Där visas r dig de största nyheterna, de bästa bilderna och de mest spännande reportagen från SVTs 21 lokala nyhetsprogram. Räcker det?  Hur jobbar redaktionen bakom programmet?\nHör mer om Sverigebilden i SVT.",
+  "id": "48081"
+}

@@ -1,6 +1,6 @@
 .Tag {
   display: inline-block;
-  margin: 0 0 7px 0;
+  margin: 0 2px 5px 0;
 
   input {
     display: none;
@@ -9,16 +9,16 @@
   label {
     display: block;
     background: none;
-    color: rgba(0,0,0,.4);
-    border: 1px solid #e4ea8c;
-    padding: 0 11px;
-    border-radius: 15px;
+    color: rgba(255, 255, 255,.7);
+    border: 1px solid rgba(255, 255, 255, .1);
+    padding: 0 8px;
+    border-radius: 2px;
     line-height: 28px;
     font-weight: 500;
     cursor: pointer;
 
     &:hover {
-      background: lighten(#e4ea8c, 15%);
+      background: rgba(255, 255, 255, .2);
     }
   }
 

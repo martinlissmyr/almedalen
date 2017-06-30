@@ -3,8 +3,8 @@
   "arranger": "Örebro kommun",
   "times": [
     {
-      "start": "2017-07-04T11:00:00.000Z",
-      "end": "2017-07-04T11:45:00.000Z"
+      "start": "2017-07-04T10:00:00.000Z",
+      "end": "2017-07-04T10:45:00.000Z"
     }
   ],
   "type": "Seminarium",
@@ -14,6 +14,7 @@
   "tags": [
     "Bostadsbrist",
     "Bostadspolitik",
+    "Hyresbostad",
     "Hyressättning",
     "Social hållbarhet"
   ],

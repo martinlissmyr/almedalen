@@ -1,23 +1,23 @@
 {
-  "title": "Eftersnack - Varför arbetar vi? Behöver vi arbeta i framtiden?",
+  "title": "Eftersnack – Varför arbetar vi? Behöver vi arbeta i framtiden?",
   "arranger": "Tidningen Syre",
   "times": [
     {
-      "start": "2017-07-03T17:30:00.000Z",
-      "end": "2017-07-03T18:25:00.000Z"
+      "start": "2017-07-03T09:00:00.000Z",
+      "end": "2017-07-03T09:50:00.000Z"
     }
   ],
-  "type": "Seminarium",
+  "type": "Samtal",
   "area": "Sysselsättning/arbetsmarknad",
   "language": "Svenska",
-  "location": "Södra Kyrkogatan 6, Syregården",
+  "location": "Södra Kyrkogatan 6",
   "tags": [
     "Arbetsmarknadsfrågor",
     "Ekonomi",
     "Hållbart samhällsbyggande",
     "Välfärd"
   ],
-  "description": "Behöver vi arbeta i framtiden? Gör automatiseringen att vi kan jobba mindre? Och om det är så att maskinerna stjäl våra jobb, ska vi hitta på nya då eller bara slappa? ",
-  "extendedDescription": "Vi följer upp det tidigare seminarium med en fri diskussion i det lilla formatet om varför vi arbetar. Behöver vi arbeta i framtiden? Alla riksdagspartiet har de senaste 30-åren tävlat om vem som kan skapa flest jobb. Under samma period har vi fördubblat produktionseffektiviteten, d.v.s. vi kan göra lika mycket med hälften så mycket jobb. Och arbetslösheten har trots det bara ökat, oavsett färg på regeringen. Gör automatiseringen att vi kan jobba mindre? Och om det är så att maskinerna stjäl våra jobb, ska vi hitta på nya då eller bara slappa?",
+  "description": "Vi följer upp det tidigare seminarium med en fri diskussion i det lilla formatet. Alla partier har de senaste 30-åren tävlat om vem som kan skapa flest jobb men arbetslösheten har ökat, oavsett färg på regeringen. Gör automatiseringen att vi kan jobba mindre och ska vi i så fall bara slappa?",
+  "extendedDescription": "Vi följer upp det tidigare seminarium med en fri diskussion i det lilla formatet. Alla riksdagspartiet har de senaste 30-åren tävlat om vem som kan skapa flest jobb. Under samma period har vi fördubblat produktionseffektiviteten, det vill säga vi kan göra lika mycket med hälften så mycket jobb. Och arbetslösheten har trots det bara ökat, oavsett färg på regeringen. Gör automatiseringen att vi kan jobba mindre? Och om det är så att maskinerna stjäl våra jobb, ska vi hitta på nya då eller bara slappa? Är arbetet ett självändamål eller bara ett medel och om det senare medel för att nå vad?",
   "id": "45573"
 }

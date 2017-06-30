@@ -10,14 +10,17 @@
     <p>
       {{description}}
       {{#ifCond language "||" arranger}}
-      <i>
+      <span class="Event-Description__arrangement">
         Arrangeras
         {{#if language}}på {{language}}{{/if}}{{#if arranger}} av {{arranger}}{{/if}}.
-      </i>
+      </span>
       {{/ifCond}}
     </p>
   </div>
   <div class="Event-Details">
+    <div>
+      {{#each tags}}{{this}}, {{/each}}<br><br>
+    </div>
     <div class="Event-Location">
       {{location}}
     </div>

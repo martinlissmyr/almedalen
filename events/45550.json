@@ -1,0 +1,24 @@
+{
+  "title": "Uppkopplade människor behöver inte bli patienter",
+  "arranger": "Telia",
+  "times": [
+    {
+      "start": "2017-07-04T08:00:00.000Z",
+      "end": "2017-07-04T09:00:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Vård och omsorg",
+  "language": "Svenska",
+  "location": "Wisby Strand Congress & Event, Donnersgatan 2",
+  "tags": [
+    "Digital hälsa",
+    "E-hälsa",
+    "Folkhälsa",
+    "Sjukvård",
+    "Vård och omsorg"
+  ],
+  "description": "Ny uppkopplad teknik gör det möjligt att i realtid diagnostisera människor långt från vårdcentraler och sjukhus. Det leder till effektivare vård, lägre kostnader och mindre lidande för vårdtagaren.",
+  "extendedDescription": "Digitaliseringen innebär stora möjligheter att effektivisera vården och minska såväl kostnader som lidande. Redan innan vårdtagaren känner av symtom kan man genom till exempel uppkopplade sensorer upptäcka avvikelser och behandla dessa, utan att tids- och kostnadskrävande sjukvårdsbesök krävs. Utvecklingen innebär dock stora utmaningar för alla aktörer vad avser omställning och förmåga att förstå och implementera den nya tekniken. Hur använder man prediktiv dataanalys för att förbättra för patienterna och kunna ge mer vård för pengarna? Vilka samhällsvinster kan man förvänta sig? Ta del av erfarenheter från proaktiv behandling av KOL och diabetes, som exemplifierar hur utmaningarna kan adresseras och vården bli mer förebyggande och proaktiv genom digital innovation.",
+  "id": "45550"
+}

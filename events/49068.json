@@ -1,0 +1,39 @@
+{
+  "title": "Hur friskt är ditt företag?",
+  "arranger": "Feelgood Företagshälsovård AB",
+  "times": [
+    {
+      "start": "2017-07-03T07:00:00.000Z",
+      "end": "2017-07-03T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-04T07:00:00.000Z",
+      "end": "2017-07-04T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-05T07:00:00.000Z",
+      "end": "2017-07-05T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-06T07:00:00.000Z",
+      "end": "2017-07-06T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-07T07:00:00.000Z",
+      "end": "2017-07-07T15:00:00.000Z"
+    }
+  ],
+  "type": "Mötes- och debattplats",
+  "area": "Vård och omsorg",
+  "language": "Svenska",
+  "location": "Cramérgatan, H313",
+  "tags": [
+    "Arbetsmiljö",
+    "Företagshälsovård",
+    "Hälsa",
+    "Hållbar livsstil",
+    "Psykisk hälsa"
+  ],
+  "description": "Hur skapas en arbetsplats där människor mår bra och jobbet bidrar till hälsa och livskvalitet? Friska arbetsplatser är ingen slump, och det finns många goda exempel att lära från. Jobbet ska inte göra oss sjuka – det ska stärka vår hälsa och hålla oss friska.",
+  "id": "49068"
+}

@@ -3,14 +3,14 @@
   "arranger": "Statens geotekniska institut",
   "times": [
     {
-      "start": "2017-07-04T09:00:00.000Z",
-      "end": "2017-07-04T10:00:00.000Z"
+      "start": "2017-07-04T08:00:00.000Z",
+      "end": "2017-07-04T09:00:00.000Z"
     }
   ],
   "type": "Samtal",
   "area": "Byggande",
   "language": "Svenska",
-  "location": "Visby hamn, kajplats 1, Ocean Surveyor",
+  "location": "Ocean Surveyor, fartyg",
   "tags": [
     "Bostadsbyggande",
     "Hållbar stadsutveckling",
@@ -19,6 +19,6 @@
     "Miljö"
   ],
   "description": "Det byggs som aldrig förr och samtidigt skapar klimatförändringen med stigande havsnivå nya förutsättningar för markens byggbarhet. Hur länge kan vi bo och bygga på kustnära mark som visar på stora risker i ett föränderligt klimat?",
-  "extendedDescription": "Seminariet tar upp frågor om hur risken för översvämningar och sämre markstabilitet hanteras i en snabb byggprocess. Ska mark och bebyggelse skyddas, exploateras eller överges när havsnivån stiger? Kan vi skydda Sveriges kustsamhällen med t ex vallar och när behöver vi planera för reträtt? Vad finns det för alternativ? Håller kompetensförsörjningen till beställare och inom byggbranschen jämna steg med behoven av klimatanpassade lösningar? Välkomna till ett samtal om vad vi kan göra för att anpassa markbyggandet till klimatförändringen och stigande havsnivåer. ",
+  "extendedDescription": "Seminariet tar upp frågor om hur risken för översvämningar och sämre markstabilitet hanteras i en snabb byggprocess. Ska mark och bebyggelse skyddas, exploateras eller överges när havsnivån stiger? Kan vi skydda Sveriges kustsamhällen med t ex vallar och när behöver vi planera för reträtt? Vad finns det för alternativ? Håller kompetensförsörjningen till beställare och inom byggbranschen jämna steg med behoven av klimatanpassade lösningar? Ett samtal om vad vi kan göra för att anpassa markbyggandet till klimatförändringen och stigande havsnivåer. ",
   "id": "45034"
 }

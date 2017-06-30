@@ -2,6 +2,7 @@
   margin: 0 0 20px 0;
   border-bottom: 1px solid rgba(0,0,0,.1);
   padding-bottom: 20px;
+  max-width: 600px;
 }
 
 .Event-Title {
@@ -29,4 +30,6 @@
 .Event-Location,
 .Event-Time {
   margin: 0 0 2px 0;
+}
+.Event-Description__arrangement {
 }

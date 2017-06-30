@@ -1,0 +1,24 @@
+{
+  "title": "Talkshow om världen utanför ringmuren",
+  "arranger": "Sveriges Radio",
+  "times": [
+    {
+      "start": "2017-07-05T12:00:00.000Z",
+      "end": "2017-07-05T12:45:00.000Z"
+    }
+  ],
+  "type": "Samtal",
+  "area": "Media/journalistik",
+  "language": "Svenska",
+  "location": "Donnersgatan",
+  "tags": [
+    "Afrika",
+    "Journalistik",
+    "Mellanöstern",
+    "Mänskliga rättigheter",
+    "Samhällsutveckling"
+  ],
+  "description": "En personlig, internationell och underhållande talkshow med tonvikt på ämnen från Mellanöstern.",
+  "extendedDescription": "Utrikeskorrespondent Cecilia Uddén tar klivet fram på Sveriges Radios scen i Almedalen.",
+  "id": "46255"
+}

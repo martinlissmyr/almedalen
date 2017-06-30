@@ -1,0 +1,37 @@
+{
+  "title": "Medborgardialog – på användarnas villkor",
+  "arranger": "imCode Partner AB, Open Source Sweden",
+  "times": [
+    {
+      "start": "2017-07-03T09:00:00.000Z",
+      "end": "2017-07-03T13:00:00.000Z"
+    },
+    {
+      "start": "2017-07-04T09:00:00.000Z",
+      "end": "2017-07-04T13:00:00.000Z"
+    },
+    {
+      "start": "2017-07-05T09:00:00.000Z",
+      "end": "2017-07-05T13:00:00.000Z"
+    },
+    {
+      "start": "2017-07-06T09:00:00.000Z",
+      "end": "2017-07-06T13:05:00.000Z"
+    },
+    {
+      "start": "2017-07-07T09:00:00.000Z",
+      "end": "2017-07-07T13:00:00.000Z"
+    }
+  ],
+  "type": "Mötes- och debattplats",
+  "area": "Digitalisering",
+  "language": "Svenska",
+  "location": "Björkanderska, Skeppsbron 24",
+  "tags": [
+    "Digitalisering",
+    "IT",
+    "Öppenhet"
+  ],
+  "description": "Att låta medborgaren vara delaktig i olika besluts- och dialogprocesser leder ofta till bättre och effektivare beslut. Fler och fler kommuner använder digital medborgardialog som komplement till klassiska metoder. Kom och diskutera och få inspiration kring hur det kan se ut i praktiken!",
+  "id": "47693"
+}

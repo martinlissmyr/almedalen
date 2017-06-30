@@ -3,21 +3,21 @@
   "arranger": "Tidningen Syre",
   "times": [
     {
-      "start": "2017-07-03T10:00:00.000Z",
-      "end": "2017-07-03T10:20:00.000Z"
+      "start": "2017-07-03T09:00:00.000Z",
+      "end": "2017-07-03T09:20:00.000Z"
     }
   ],
-  "type": "Samtal",
+  "type": "Seminarium",
   "area": "Ekonomi",
   "language": "Svenska",
-  "location": "Södra Kyrkogatan 6, Syregården",
+  "location": "Södra Kyrkogatan 6",
   "tags": [
     "Arbetsliv",
     "Basinkomst",
     "Ekonomi",
     "Hållbart samhälle"
   ],
-  "description": "Basinkomst är på frammarsch i stora delar av världen, och Finland m.fl. länder pågår försök, men hur ser diskussionen ut i Sverige? Vi tittar närmare på fyra svenska förslag. Vi diskuterar hur en pirat medborgarlön skulle kunna se ut.",
-  "extendedDescription": "Basinkomst är på frammarsch i stora delar av världen, och Finland med flera länder pågår försök, men i Sverige har ingen större aktör än Piratpartiet och längre bak i tiden Miljöpartiet valt att driva frågan. Trots det diskuteras frågan allt mer och vi tittar under eftermiddagens två första timmar närmare på fyra svenska förslag. Först tittar vi tillsammans med den före EU-parlamentariker för Piratpartiet, Christian Engström, på hur en pirat medborgarlön skulle kunna se ut. Christian Engström har under flera år räknat på hur en basinkomst kan genomföras. Han förordar en modell av negativ inkomstskatt som innebär att 8333 kronor i månaden betalas ut till alla i arbetsförd ålder (19-65) som bor i Sverige och inte har några andra inkomster. Den trappas sedan ned med 67% på allt du tjänar fram tills det hakar in i dagens inkomst och skattenivåer. ",
+  "description": "Basinkomst är på frammarsch i stora delar av världen och i flera länder pågår försök. I Sverige har ingen större aktör än Piratpartiet och tidigare Miljöpartiet valt att driva frågan. Trots det diskuteras det allt mer. Vi tittar närmare på fyra svenska förslag, först ut är en pirat medborgarlön.",
+  "extendedDescription": "Basinkomst är på frammarsch i stora delar av världen och i Finland med flera länder pågår försök. Men i Sverige har ingen större aktör än Piratpartiet och längre bak i tiden Miljöpartiet valt att driva frågan. Trots det diskuteras frågan allt mer. Vi tittar under eftermiddagens två första timmar närmare på fyra svenska förslag.  Först tittar vi tillsammans med den före EU-parlamentariker för Piratpartiet, Christian Engström, på hur en pirat medborgarlön skulle kunna se ut. \nChristian Engström har under flera år räknat på hur en basinkomst kan genomföras. Han förordar en modell av negativ inkomstskatt som innebär att 8333 kronor i månaden betalas ut till alla i arbetsför ålder (19-65) som bor i Sverige och inte har några andra inkomster. Den trappas sedan ned med 67% på allt du tjänar fram tills det hakar in i dagens inkomst och skattenivåer. Du kan läsa om Christans förslag här: http://tidningensyre.se/2016/nummer-65/sa-kan-vi-infora-basinkomst/",
   "id": "45565"
 }

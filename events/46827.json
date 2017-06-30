@@ -1,0 +1,24 @@
+{
+  "title": "Robotar – oberoende rådgivare eller automatiserad säljkår?",
+  "arranger": "Max Matthiessen",
+  "times": [
+    {
+      "start": "2017-07-06T05:00:00.000Z",
+      "end": "2017-07-06T06:00:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Ekonomi",
+  "language": "Svenska",
+  "location": "Clarion Hotel Wisby, Strandgatan 6",
+  "tags": [
+    "Finans",
+    "Försäkring",
+    "Pension",
+    "Robotisering",
+    "Sparande"
+  ],
+  "description": "Vem äger framtidens stora robotrådgivare? Kan en robot ha intressekonflikter och kan en algoritm ställas till svars? Hur garanteras robotarnas oberoende och hur ska tillsynen ske? ",
+  "extendedDescription": "Robotrådgivning är inte längre en framtidsspaning utan en realitet som är här för att stanna. Men med fintech följer en rad frågor som måste adresseras och med nya krav på tillsyn som följd. \n",
+  "id": "46827"
+}

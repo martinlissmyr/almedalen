@@ -1,0 +1,23 @@
+{
+  "title": "Sverige bäst i test – men varför?",
+  "arranger": "Uppsala universitet, Sveriges ingenjörer",
+  "times": [
+    {
+      "start": "2017-07-04T06:00:00.000Z",
+      "end": "2017-07-04T06:50:00.000Z"
+    }
+  ],
+  "type": "Samtal",
+  "area": "Forskning",
+  "language": "Svenska",
+  "location": "Uppsala universitet, Campus Gotland, Cramérgatan 3",
+  "tags": [
+    "Förändring",
+    "Samhälle",
+    "Samhällsanalyser",
+    "Sverigebilden"
+  ],
+  "description": "Sverige rankas som nummer 1 i flertalet undersökning på senare tid där olika parametrar vägs in (t ex innovation, hälsa, utbildning, miljö, korruption, mm.)  Varför ligger Sverige så bra till? Vilka förändringar och insatser har tagit oss hit? ",
+  "extendedDescription": "Hur tar vi tillvara på de goda förutsättningarna. Hur beroende är vi av omvärlden? Och vad styr vi själva över?",
+  "id": "46050"
+}

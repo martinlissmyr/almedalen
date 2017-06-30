@@ -1,0 +1,23 @@
+{
+  "title": "Så bygger vi en inkluderande stad",
+  "arranger": "Skanska",
+  "times": [
+    {
+      "start": "2017-07-05T05:00:00.000Z",
+      "end": "2017-07-05T05:45:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Byggande",
+  "language": "Svenska",
+  "location": "Strandvägen, H528",
+  "tags": [
+    "Bostadsbyggande",
+    "Integration",
+    "Mångfald",
+    "Samhällsbyggande"
+  ],
+  "description": "Hur skapas ett mera inkluderande samhälle? Ingen myndighet eller kommun kan lösa frågan på egen hand. När näringslivet kommer med på tåget och axlar sin roll som samhällsaktör förenas krafterna och större förändring blir möjlig.",
+  "extendedDescription": "Konkreta exempel på bostads- och stadsutvecklingsprojekt där samhällsfrämjande satsningar har gjort skillnad, för individen och för staden. Vi resonerar också om hur vi gör det möjligt: hur kan företag göra samhällsnytta till en del av själva affärsidén? Hur kan städer försäkra sig om att privata aktörer bidrar, med upphandling och marktilldelning som verktyg?\n\nSeminariet följs av ett rundabordssamtal om integration, en av de stora samhällsutmaningarna. Möjlighet att komma in på arbetsmarknaden och ökad mångfald på arbetsplatserna är ett avgörande steg på vägen till ett inkluderande och tolerant samhälle. Vad krävs av näringslivet framöver för att komma närmare målet?",
+  "id": "46094"
+}

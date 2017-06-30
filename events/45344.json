@@ -1,0 +1,24 @@
+{
+  "title": "Finns det (P)-lats för bilen i staden?",
+  "arranger": "BIL Sweden, Motorbranschens riksförbund",
+  "times": [
+    {
+      "start": "2017-07-05T10:00:00.000Z",
+      "end": "2017-07-05T10:45:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Infrastruktur",
+  "language": "Svenska",
+  "location": "Uppsala universitet, Campus Gotland, Cramérgatan 3",
+  "tags": [
+    "Bilism",
+    "Infrastruktur",
+    "Samhällsekonomi",
+    "Stadsutveckling",
+    "Transport"
+  ],
+  "description": "Med en ökande befolkning kommer mer yteffektiv parkering att behövas i städerna, under jord, på vatten eller i torn. Flera storstäder vill minska gatuparkeringen, men finns betalningsvilja att skapa framtidens parkering? Allt fler kommuner ser över parkeringsnormen, men har de medborgarna med sig?",
+  "extendedDescription": "Uppkopplade och självkörande bilar kan bli en drivande faktor för detta. Hur ser det ut med projektering och planering av nya lösningar? Kommer städerna att kunna kombinera bilfria gator med god biltillgänglighet? Bör parkering vara en fri marknad eller är den ett naturligt monopol som en grundservice? ",
+  "id": "45344"
+}

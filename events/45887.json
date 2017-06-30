@@ -3,8 +3,8 @@
   "arranger": "Swedbank",
   "times": [
     {
-      "start": "2017-07-04T06:30:00.000Z",
-      "end": "2017-07-04T07:15:00.000Z"
+      "start": "2017-07-04T05:30:00.000Z",
+      "end": "2017-07-04T06:15:00.000Z"
     }
   ],
   "type": "Seminarium",
@@ -18,7 +18,7 @@
     "Trygghet",
     "Utsatthet"
   ],
-  "description": "Har entreprenörer ett behov av trygghet? Eller är man beredd att satsa allt för att vinna? Många entreprenörer är dåligt insatta i vad de har för ekonomiskt skydd. Var fjärde företagare vet till exempel inte vad de har för skydd om de skulle bli långvarigt sjuka. Vem tar ansvaret?",
+  "description": "Har entreprenörer ett behov av trygghet eller är man beredd att satsa allt för att vinna? Många entreprenörer är dåligt insatta i vad de har för ekonomiskt skydd. Var fjärde företagare vet till exempel inte vad de har för skydd om de skulle bli långvarigt sjuka. Vem tar ansvaret?",
   "extendedDescription": "Det är generellt dålig kunskap bland företagare om trygghet för företagare. Många entreprenörer är dåligt insatta i vad de har för försäkring. Pensions- och trygghetssystemen är komplexa och ifrågasatta och åtta av tio saknar inkomstförsäkring vid arbetslöshet.",
   "id": "45887"
 }

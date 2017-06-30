@@ -1,0 +1,24 @@
+{
+  "title": "Det visar tre månader av medicinsk åldersbedömning",
+  "arranger": "Rättsmedicinalverket",
+  "times": [
+    {
+      "start": "2017-07-04T06:00:00.000Z",
+      "end": "2017-07-04T07:00:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Integration/mångfald",
+  "language": "Svenska",
+  "location": "Biostaden Borgen, Hästgatan 24",
+  "tags": [
+    "Barnkonventionen",
+    "Barns rättigheter",
+    "Flyktingmottagande",
+    "Medicinsk åldersbedömning",
+    "Migration"
+  ],
+  "description": "Nu har Sverige för första gången ett system för medicinska åldersbedömningar i asylprocessen. Rättsmedicinalverket har uppdraget och ansvaret för metodval och utförande. Vi kan nu redovisa den första tiden med det nya systemet.",
+  "extendedDescription": "I drygt tre månader har det svenska systemet med medicinska åldersbedömningar i asylärenden varit igång.\nUnder seminariet svarar vi på frågorna: \nHur går en bedömning till?\nHur ser ett utlåtande ut?\nVad visar statistiken?\nI asylärenden är det Migrationsverket som begär medicinska åldersbedömningar av Rättsmedicinalverket. För att kunna göra rättssäkra utlåtanden genomgår den asylsökande personen två undersökningar, tandmognadsbedömning samt bedömning av mognadsgraden i tillväxtzonen i knäleden.\nKraven på vetenskaplighet, etik och barns särskilda rättigheter är grundläggande. Efter varje undersökning gör flera medicinska experter oberoende analyser av visdomständer respektive knäled. En rättsläkare gör utifrån analyssvaren en bedömning av sannolikheten för att den undersökte är över eller under 18 år.\n",
+  "id": "46180"
+}

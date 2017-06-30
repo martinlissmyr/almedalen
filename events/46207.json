@@ -1,0 +1,24 @@
+{
+  "title": "Direktsänt med Ebba Busch Thor",
+  "arranger": "Sveriges Radio",
+  "times": [
+    {
+      "start": "2017-07-06T10:30:00.000Z",
+      "end": "2017-07-06T11:30:00.000Z"
+    }
+  ],
+  "type": "Samtal",
+  "area": "Media/journalistik",
+  "language": "Svenska",
+  "location": "Donnersgatan",
+  "tags": [
+    "Politik",
+    "Politiker",
+    "Samhällsanalyser",
+    "Samhällsutveckling",
+    "Sverigebilden"
+  ],
+  "description": "Vi frågar ut Ebba Busch Thor, Kristdemokraterna.",
+  "extendedDescription": "P4 Extra är ett aktualitetsprogram som tar avstamp i det politiska läget, samhällsdebatten och bjuder lyssnarna på en välkomponerad blandning av dagsaktuella ämnen.",
+  "id": "46207"
+}

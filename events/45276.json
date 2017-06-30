@@ -3,14 +3,14 @@
   "arranger": "Brottsofferjouren Sverige",
   "times": [
     {
-      "start": "2017-07-04T11:30:00.000Z",
-      "end": "2017-07-04T12:30:00.000Z"
+      "start": "2017-07-04T10:30:00.000Z",
+      "end": "2017-07-04T11:30:00.000Z"
     }
   ],
   "type": "Seminarium",
   "area": "Mänskliga rättigheter",
   "language": "Svenska",
-  "location": "Uppsala universitet, Campus Gotland, Cramérgatan 3",
+  "location": "Björkanderska F-Huset, UUCG, Skeppsbron 24",
   "tags": [
     "Hedersförtryck",
     "Kvinnofrid",
@@ -18,6 +18,7 @@
     "Rättsväsende",
     "Våld"
   ],
-  "description": "Kalla Fakta avslöjade i april att moralpoliser trakasserar kvinnor runtom i Sverige och att skolbarn separeras på skolbussar. Vi bjuder in till seminarium med föreläsning och panelsamtal. ",
+  "description": "Kalla Fakta avslöjade i april att självutnämnda moralpoliser trakasserar kvinnor runtom i Sverige och att skolbarn separeras på skolbussar. ",
+  "extendedDescription": "Ska kvinnor och unga flickor styras av moralpoliser och hedersförtryck i vardagen? Brottsofferjouren Sverige bjuder in till seminarium med föreläsning och panelsamtal. Brottsofferjouren arbetar med att ge medmänskligt stöd till brottsoffer, vittnen och anhöriga. Vi ger också ut kunskapshöjande material inom bland annat våld i nära relation. I juni ger vi ut en bok om hedersrelaterat våld och förtryck. Boken heter Leva sitt liv – en bok om hedersrelaterat våld och förtryck. Vi kommer presentera den på seminariet som avslutning. Boken är finansierad av Socialstyrelsen och är därför gratis. ",
   "id": "45276"
 }

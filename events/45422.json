@@ -3,22 +3,22 @@
   "arranger": "Agenda 2030-delegationen",
   "times": [
     {
-      "start": "2017-07-04T11:30:00.000Z",
-      "end": "2017-07-04T12:30:00.000Z"
+      "start": "2017-07-04T10:30:00.000Z",
+      "end": "2017-07-04T11:30:00.000Z"
     }
   ],
   "type": "Seminarium",
   "area": "Hållbarhet",
   "language": "Svenska",
-  "location": "Länsstyrelsens nedre trädgård, Korsgatan 4",
+  "location": "Korsgatan 4",
   "tags": [
     "Agenda 2030",
-    "Civila samhället",
     "Hållbar utveckling",
-    "Näringsliv",
-    "Ungdomar"
+    "Hållbar välfärd",
+    "Jämlikhet",
+    "Jämställdhet"
   ],
-  "description": "Agenda 2030-delegationen presenterar sitt förslag till handlingsplan för Sveriges genomförande av de Globala målen. Hur ska näringsliv, myndigheter, civilsamhälle, unga, fackföreningar och akademi arbeta tillsammans för att uppnå en hållbar utveckling? Var ska Sveriges fokus och ambitionsnivå ligga?",
+  "description": "Vilka är knäckfrågorna i genomförandet av Agenda 2030? Vi går från lokalt till nationellt och diskuterar utmaningar och möjligheter inom delegationens prioriterade områden och Agenda 2030 i sin helhet. Hur skapa partnerskap och synergier? Hur höjer vi ambitionen för att nå de Globa målen?",
   "extendedDescription": "Den 25 september 2015 antog FN:s generalförsamling den historiska resolutionen Agenda 2030 för hållbar utveckling. Agendan innebär att alla 193 medlemsländer i FN förbundit sig att fram till år 2030 tillsammans jobba för att uppnå en socialt, miljömässigt och ekonomiskt hållbar utveckling. \n\nSom en del i Sveriges genomförande av Agenda 2030 tillsatte regeringen i mars 2016 en delegation med uppgift att stödja och stimulera arbetet. Delegationen har i uppdrag att föreslå en övergripande handlingsplan för Sveriges gneomförande av Agenda 2030, föreslå åtgärder för att främja informations- och kunskapsspridning och förankra Agenda 2030 genom en bred dialog med olika samhällsaktörer.",
   "id": "45422"
 }

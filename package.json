@@ -13,12 +13,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "scraperjs": "1.2.0",
     "koa": "2.2.0",
     "koa-views": "6.0.2",
-    "handlebars": "4.0.10",
     "koa-sass": "1.1.1",
     "koa-static": "latest",
-    "koa-router": "7.2.0"
+    "koa-router": "7.2.0",
+    "handlebars": "4.0.10"
+  },
+  "devDependencies": {
+    "scraperjs": "1.2.0"
   }
 }

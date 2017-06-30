@@ -1,10 +1,10 @@
 {
-  "title": "Flyget – en skattesmitare?",
+  "title": "Hur löser vi flygets klimatutmaning?",
   "arranger": "Naturskyddsföreningen",
   "times": [
     {
-      "start": "2017-07-04T08:00:00.000Z",
-      "end": "2017-07-04T08:40:00.000Z"
+      "start": "2017-07-04T07:00:00.000Z",
+      "end": "2017-07-04T07:40:00.000Z"
     }
   ],
   "type": "Seminarium",
@@ -14,9 +14,10 @@
   "tags": [
     "Ekonomiska styrmedel",
     "Flygskatt",
+    "Fossilfritt",
     "Klimat",
     "Resor"
   ],
-  "description": "Svenskar flyger allt mer. Utrikesflyget har dubblerats sedan 1990. Flygets klimatpåverkande utsläpp motsvarar alla Sveriges bilar. Ändå slipper flyget både energi-, koldioxidskatt och moms på utrikesresor. Nu har regeringen föreslagit en flygskatt. Vad behövs för minskad klimatpåverkan?",
+  "description": "Svenskar flyger allt mer. Utrikesflyget har dubblerats sedan 1990. Flygets klimatpåverkande utsläpp motsvarar alla Sveriges bilar. Ändå slipper flyget både energi- och koldioxidskatt samt moms på utrikesresor. Nu har regeringen föreslagit en flygskatt. Vad behövs för minskad klimatpåverkan?",
   "id": "45829"
 }

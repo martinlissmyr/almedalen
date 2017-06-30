@@ -3,14 +3,14 @@
   "arranger": "Larmtjänst, Svensk Försäkring",
   "times": [
     {
-      "start": "2017-07-05T14:00:00.000Z",
-      "end": "2017-07-05T15:00:00.000Z"
+      "start": "2017-07-05T13:00:00.000Z",
+      "end": "2017-07-05T14:00:00.000Z"
     }
   ],
   "type": "Seminarium",
   "area": "Rättsväsende/brott",
   "language": "Svenska",
-  "location": "Gotlands museum, Sävesalen, Mellangatan 19",
+  "location": "Mellangatan 19",
   "tags": [
     "Bedrägeri",
     "Brott",

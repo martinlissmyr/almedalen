@@ -3,8 +3,8 @@
   "arranger": "Svensk Kollektivtrafik",
   "times": [
     {
-      "start": "2017-07-04T13:30:00.000Z",
-      "end": "2017-07-04T14:30:00.000Z"
+      "start": "2017-07-04T12:30:00.000Z",
+      "end": "2017-07-04T13:30:00.000Z"
     }
   ],
   "type": "Seminarium",
@@ -18,6 +18,7 @@
     "Samhällsnytta",
     "Transport"
   ],
-  "description": "Presentation av en ny rapport som beräknar värdet av den samhällsekonomiska nytta som kollektivtrafiken skapar genom att förbättra människors tillgänglighet till samhället, minska utsläpp och buller, öka trafiksäkerheten och vidga arbetsmarknadsregionerna. Efterföljande diskussion med politiker. ",
+  "description": "Hur stor är kollektivtrafikens samhällsnytta? Presentation av ny rapport som beräknar värdet av den samhällsekonomiska nytta som kollektivtrafiken skapar genom att förbättra människors tillgänglighet till samhället, minska utsläppen och vidga arbetsmarknaderna. Efterföljande debatt med politiker.",
+  "extendedDescription": "Kollektivtrafik är inget självändamål. Syftet med kollektivtrafiken är att skapa möjligheter för människor att resa till och från arbete, utbildning, fritidsaktiviteter och service. Dessutom minskar den klimatutsläppen, ökar trafiksäkerheten och vidgar arbetsmarknadsregionerna. Det är på grund av dessa nyttor för resenärerna och samhället som kommuner, landsting och regioner organiserar, upphandlar och delfinansierar kollektivtrafiken. På seminariet presenterar WSP en ny rapport med beräkningar av kollektivtrafikens totala samhällsnytta. Därefter följer en paneldiskussion med ledamöter från riksdagens trafikutskott: De regionala kollektivtrafikmyndigheterna arbetar ständigt med att öka nyttan för resenärerna och samhället, men hur kan regering och riksdag öka kollektivtrafikens samhällsnytta? ",
   "id": "45657"
 }

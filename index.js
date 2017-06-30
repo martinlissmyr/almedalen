@@ -58,6 +58,8 @@ router.get("/events", async function(ctx) {
   var selectedTags = ctx.request.query.tags ? ctx.request.query.tags.split("|") : [];
   var selectedDays = ctx.request.query.days ? ctx.request.query.days.split("|") : [];
 
+  console.log("\"" + selectedTags.join("\",\n\"") + "\"");
+
   await ctx.render("events", program.filterEvents({
     tags: selectedTags,
     days: selectedDays

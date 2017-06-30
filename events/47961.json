@@ -1,0 +1,43 @@
+{
+  "title": "Personlig assistans angår alla",
+  "arranger": "Föreningen JAG",
+  "times": [
+    {
+      "start": "2017-07-02T10:00:00.000Z",
+      "end": "2017-07-02T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-03T07:00:00.000Z",
+      "end": "2017-07-03T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-04T07:00:00.000Z",
+      "end": "2017-07-04T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-05T07:00:00.000Z",
+      "end": "2017-07-05T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-06T07:00:00.000Z",
+      "end": "2017-07-06T15:00:00.000Z"
+    },
+    {
+      "start": "2017-07-07T07:00:00.000Z",
+      "end": "2017-07-07T15:00:00.000Z"
+    }
+  ],
+  "type": "Mötes- och debattplats",
+  "area": "Mänskliga rättigheter",
+  "language": "Svenska",
+  "location": "Hamnplan, H226",
+  "tags": [
+    "Framtid",
+    "Funktionsnedsättning",
+    "LSS",
+    "Personlig assistans",
+    "Välfärd"
+  ],
+  "description": "Personlig assistans är ett skyddsnät för alla medborgare. Den som inte redan har en funktionsvariation kan ta ett felsteg ut i gatan eller få ett barn med funktionsnedsättning. Någons partner kan få en stroke – och ha turen att överleva. Därför försvarar vi assistansreformen.",
+  "id": "47961"
+}

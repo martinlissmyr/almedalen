@@ -1,23 +1,24 @@
 {
-  "title": "Bokstavsdiagnosen - Den dolda superkraften",
+  "title": "Bokstavsdiagnosen – den dolda superkraften",
   "arranger": "Novare Peritos AB",
   "times": [
     {
-      "start": "2017-07-06T12:00:00.000Z",
-      "end": "2017-07-06T13:00:00.000Z"
+      "start": "2017-07-06T11:00:00.000Z",
+      "end": "2017-07-06T12:00:00.000Z"
     }
   ],
   "type": "Seminarium",
   "area": "Integration/mångfald",
   "language": "Svenska",
-  "location": "Länsstyrelsens nedre trädgård, Korsgatan 4",
+  "location": "Korsgatan 4",
   "tags": [
     "Arbetskraft",
     "Arbetsmarknad",
     "Funktionsnedsättning",
-    "Hållbarhet",
-    "Mångfald"
+    "Mångfald",
+    "NPF"
   ],
-  "description": "Unga människor med funktionsvariationer är en resurs som arbetsmarknaden behöver. Idag hamnar många dessa ungdomar utanför arbetslivet innan dem ens får en chans att visa vad dem går för, samtidigt som fler och fler företag pratar om mångfald i sina rekryteringar. Men vågar du ge dem chansen? ",
+  "description": "Unga människor med funktionsvariationer är en resurs som arbetsmarknaden behöver. Idag hamnar många av dessa ungdomar utanför arbetslivet innan de ens får chansen att visa vad de går för. Samtidigt pratar fler och fler företag om mångfald i sina rekryteringar. Varför vågar inte fler ge dem chansen?",
+  "extendedDescription": "Många unga vuxna med en diagnos (t.ex. Autism eller ADHD) har oftast kompetenser och drivkrafter som arbetsmarknaden inte fångar upp. Istället är arbetslösheten väldigt hög bland denna målgrupp. \nRunt om i världen börjar företag inse att rekrytera medarbetare med funktionsvariationer faktiskt ger en konkurrensfördel. Men i Sverige är vi inte riktigt där än. Varför är det så? I ett panelsamtal kommer vi att diskutera både arbetsgivares och arbetstagares syn på hur vi kan bryta det utanförskap som idag finns. Vi kommer även att ge konkreta tips på hur en arbetar med mångfaldsfrämjande på riktigt. Tillsammans hoppas vi kunna ge er lite mer insikt om hur en kan fånga upp denna dolda superkraft!",
   "id": "45924"
 }

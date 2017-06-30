@@ -1,0 +1,23 @@
+{
+  "title": "Personlig assistans - med framåtblick",
+  "arranger": "Fulldelaktighet.se",
+  "times": [
+    {
+      "start": "2017-07-05T09:10:00.000Z",
+      "end": "2017-07-05T09:30:00.000Z"
+    }
+  ],
+  "type": "Samtal",
+  "area": "Vård och omsorg",
+  "language": "Svenska",
+  "location": "Birgers gränd 1",
+  "tags": [
+    "Anhörig",
+    "LSS",
+    "Mänskliga rättigheter",
+    "Personlig assistans",
+    "Rättsväsende"
+  ],
+  "description": "Vi samtalar om den personliga assistansens framtid med utgångspunkt från dagens situation och den pågående översynen av LSS och assistansersättningen.",
+  "id": "49057"
+}

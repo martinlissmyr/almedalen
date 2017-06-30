@@ -1,0 +1,21 @@
+{
+  "title": "Sveriges flytande batteri laddar om",
+  "arranger": "Vattenfall",
+  "times": [
+    {
+      "start": "2017-07-05T12:30:00.000Z",
+      "end": "2017-07-05T13:00:00.000Z"
+    }
+  ],
+  "type": "Frågestund/utfrågning",
+  "area": "Energi",
+  "language": "Svenska",
+  "location": "Mellangatan 9",
+  "tags": [
+    "Energi",
+    "Forskning och innovation",
+    "Förnybart"
+  ],
+  "description": "Vad är kopplingen mellan vattenmagasin, drönare och Teslas hembatterier? Måste vi ha ett batteri på väggen eller är Suorvadammens vatten lösningen?",
+  "id": "48949"
+}

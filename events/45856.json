@@ -3,13 +3,13 @@
   "arranger": "Afrikagrupperna, Latinamerikagrupperna, Jordens Vänner, Svalorna Indien Bangladesh, Framtidsjorden",
   "times": [
     {
-      "start": "2017-07-04T10:00:00.000Z",
-      "end": "2017-07-04T11:00:00.000Z"
+      "start": "2017-07-04T09:00:00.000Z",
+      "end": "2017-07-04T09:50:00.000Z"
     }
   ],
   "type": "Seminarium",
   "area": "Mat",
-  "language": "Svenska and English",
+  "language": "Svenska",
   "location": "Södra Kyrkogatan 6",
   "tags": [
     "EU",
@@ -18,7 +18,7 @@
     "Mat",
     "Mänskliga rättigheter"
   ],
-  "description": "Utveckling mot ett storskaligt jordbruk och ett globalt matsystem har gått fort. Den stöds av jordbrukspolitiker på olika nivåer och drivs hårt av den privata sektorn som det ända sättet att föda jordens växande befolkning. Men hur producerar vi mat på ett sätt som håller i längden?",
-  "extendedDescription": "Det sägs att alla de globala målen hör samman med mat. Debatten om jordbrukets utveckling är hetare än på länge. De senaste decennierna har inneburit en snabb utveckling mot ett allt mer storskaligt  jordbruk och en globalisering av matsystemet. Svenska pensionsfonder köper mark i Brasilien och EU:s bistånd används till att gynna multinationella livsmedelsföretags intressen i afrikanska länder. Jordbruken i Sverige försvinner och vi erbjuds besprutade chilenska äpplen mitt i svensk äppelsäsong. Effekterna är många. \nAllt fler röster höjs nu mot denna storskaliga modell. Politiken som förs i Sverige och EU är otillräcklig för att skapa de förutsättningar som är nödvändiga för att ställa om dagens ohållbara matsystem. Så hur skapar vi ett matsystem för framtiden som är socialt, ekonomiskt och miljömässigt hållbart och vilka är de största knäckfrågorna?\n",
+  "description": "Vilka politiska lösningar finns för att skapa de förutsättningar som är nödvändiga för att ställa om dagens ohållbara matsystem? Hur skapar vi ett matsystem för framtiden som är socialt, ekonomiskt och miljömässigt hållbart och vilka är de största knäckfrågorna?\n",
+  "extendedDescription": "Det sägs att alla de globala målen hör samman med mat. De senaste decennierna har inneburit en snabb utveckling mot ett allt mer storskaligt jordbruk och en globalisering av matsystemet. Svenska pensionsfonder köper mark i Brasilien och EU:s bistånd används till att gynna multinationella livsmedelsföretags intressen i afrikanska länder. Jordbruken i Sverige försvinner och vi erbjuds besprutade chilenska äpplen mitt i svensk äppelsäsong. Effekterna är många. Allt fler röster höjs nu mot denna storskaliga modell. Samtal om hur vi skapar ett matsystem för framtiden som är socialt, ekonomiskt och miljömässigt hållbart.",
   "id": "45856"
 }

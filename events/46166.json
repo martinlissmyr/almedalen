@@ -1,0 +1,20 @@
+{
+  "title": "Ödestid för public service",
+  "arranger": "Expressen",
+  "times": [
+    {
+      "start": "2017-07-07T07:00:00.000Z",
+      "end": "2017-07-07T07:30:00.000Z"
+    }
+  ],
+  "type": "Samtal",
+  "area": "Media/journalistik",
+  "language": "Svenska",
+  "location": "Donners plats, H409",
+  "tags": [
+    "Media",
+    "Public service"
+  ],
+  "description": "Vad är egentligen tv och radio \"i allmänhetens tjänst\" idag, när konkurrensen och utbudet ständigt ökar? Funkar de gamla modellerna för SR och SVT - och hur ska de kunna samverka med de privata medierna?",
+  "id": "46166"
+}

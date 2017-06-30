@@ -1,15 +1,15 @@
 {
-  "title": "Kan miljömärkningar rädda världen?",
+  "title": "Can ecolabels save the world?",
   "arranger": "MSC, Marine Stewardship Council",
   "times": [
     {
-      "start": "2017-07-06T12:00:00.000Z",
-      "end": "2017-07-06T12:45:00.000Z"
+      "start": "2017-07-06T11:00:00.000Z",
+      "end": "2017-07-06T11:45:00.000Z"
     }
   ],
   "type": "Seminarium",
   "area": "Hållbarhet",
-  "language": "Svenska",
+  "language": "English",
   "location": "Clarion Hotel Wisby, Strandgatan 6",
   "tags": [
     "Havet",
@@ -18,6 +18,7 @@
     "Hållbarhet",
     "Miljö"
   ],
-  "description": "Medans miljöklockan tickar utvecklar olika organisationer sina certifieringar för att få till en hållbar utveckling med mål att rädda regnskog, livet i haven samt ge schyssta arbetsvillkor för människor. Vi tar avstamp i WWF:s rapport ”SDG mean business”. Kommer vi nå fram?",
+  "description": "The clock is ticking for the environment! Organizations develop certification programs to achieve sustainable development in different areas – save the rainforest, protect life in our oceans, secure sound working conditions for people. Will we make it?",
+  "extendedDescription": "The 2030 Agenda for Sustainable Development and its 17 Sustainable Development Goals covers the whole spectrum of sustainability issues. In order to achieve them, everyone has to take part and work towards the same goal. But how should this cooperation to save our planet happen? What effective tools are out there? According to WWF's new report, “SDG's mean business”, credible standards represent unique opportunities to link stakeholders and create the cooperation needed between producers and consumers to achieve the Sustainable Development Goals. During this seminar, WWF will tell us more about the results of the report and show examples where credible voluntary sustainability standards have been used to transform supply chains. Representatives from ecolabels and the supply chain discuss how standard setting certification programs can create the credibility and traceability required to build bridges between producers and consumers.",
   "id": "45932"
 }

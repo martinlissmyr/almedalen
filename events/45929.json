@@ -3,8 +3,8 @@
   "arranger": "MSC, Marine Stewardship Council",
   "times": [
     {
-      "start": "2017-07-06T13:30:00.000Z",
-      "end": "2017-07-06T14:30:00.000Z"
+      "start": "2017-07-06T12:30:00.000Z",
+      "end": "2017-07-06T13:30:00.000Z"
     }
   ],
   "type": "Seminarium",
@@ -18,6 +18,7 @@
     "Hållbarhet",
     "Miljö"
   ],
-  "description": "I höst sjösätts en ny hållbarhetsmärkning för havets gröna guld, dvs alger och andra växter som hör havet till. Vi djupdyker i algernas värld, tittar på vad vi kan förvänta oss av havets gröna utbud och vilka användningar där algerna kan spela en roll för ett hållbart samhälle.",
+  "description": "I höst sjösätts en ny hållbarhetsmärkning för havets gröna guld - alger och andra växter som hör havet till. Vi djupdyker i algernas värld, tittar på vad vi kan förvänta oss av havets gröna utbud och vilken roll algerna spelar för en hållbar förvaltning av våra hav.",
+  "extendedDescription": "Hållbarhetsmärkningar går att hitta på nästan alla våra livsmedel men när det kommer till den vegetariska maten från havet – algerna – har det fram tills idag inte funnits någon hållbarhetscertifiering eller miljömärkning. Under seminariet diskuterar representanter från akademin vilken roll alger spelar i havens ekosystem och om en hållbarhetsstandard för alger verkligen behövs. Vad finns det för hållbarhetsaspekter förknippade med algproduktion? Vad kommer standarden att innefatta? Algodlare och handeln presenterar algernas många användningsområden, diskuterar konsumentefterfrågan på hållbara alger och avslutar med en spaning i algernas kulinariska värld.",
   "id": "45929"
 }

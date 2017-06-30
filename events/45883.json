@@ -3,14 +3,14 @@
   "arranger": "SUHF",
   "times": [
     {
-      "start": "2017-07-05T12:00:00.000Z",
-      "end": "2017-07-05T13:00:00.000Z"
+      "start": "2017-07-05T11:00:00.000Z",
+      "end": "2017-07-05T12:00:00.000Z"
     }
   ],
   "type": "Seminarium",
   "area": "Forskning",
   "language": "Svenska",
-  "location": "Uppsala universitet, Campus Gotland, Cramérgatan 3",
+  "location": "Betty Petterssons Hus, UUCG, Kaserngatan 1",
   "tags": [
     "Forskning och utbildning",
     "Internationalisering",

@@ -3,20 +3,20 @@
   "arranger": "Tidningen Syre",
   "times": [
     {
-      "start": "2017-07-03T10:40:00.000Z",
-      "end": "2017-07-03T11:00:00.000Z"
+      "start": "2017-07-03T09:40:00.000Z",
+      "end": "2017-07-03T10:00:00.000Z"
     }
   ],
-  "type": "Samtal",
+  "type": "Seminarium",
   "area": "Ekonomi",
   "language": "Svenska",
-  "location": "Södra Kyrkogatan 6, Syregården",
+  "location": "Södra Kyrkogatan 6",
   "tags": [
     "Basinkomst",
     "Ekonomi",
     "Hållbart samhälle"
   ],
-  "description": "Basinkomst är på frammarsch i stora delar av världen, och Finland m.fl. länder pågår försök, men hur ser diskussionen ut i Sverige? Vi tittar närmare på fyra svenska förslag. På detta seminarium diskuterar vi hur en miljöpartistisk basinkomst skulle kunna se ut.\n",
-  "extendedDescription": "Basinkomst är på frammarsch i stora delar av världen, och Finland med flera länder pågår försök, men i Sverige har ingen större aktör än Piratpartiet och längre bak i tiden Miljöpartiet valt att driva frågan. Trots det diskuteras frågan allt mer och vi tittar under eftermiddagens två första timmar närmare på fyra svenska förslag. I detta, det tredje passet, så två tittar vi tillsammans med Karin Jansson (MP) hur en miljöpartistisk basinkomst skulle kunna se ut. 2000 och 2007 utredde Karin som partistyrelseledamot och på partistyrelsen uppdrag hur medborgarlön skulle kunna utformas. Förslagen lades sedan till miljöpartiets kongress respektive ett rådslag bland medlemmarna. ",
+  "description": "Basinkomst är på frammarsch i stora delar av världen. Men i Sverige har ingen större aktör än Piratpartiet och tidigare Miljöpartiet valt att driva frågan. Trots det diskuteras det allt mer. Vi tittar närmare på fyra svenska förslag, i det tredje passet lyfter vi en miljöpartistisk basinkomst.",
+  "extendedDescription": "Basinkomst är på frammarsch i stora delar av världen och i Finland med flera länder pågår försök. Men i Sverige har ingen större aktör än Piratpartiet och längre bak i tiden Miljöpartiet valt att driva frågan. Trots det diskuteras frågan allt mer. Vi tittar under eftermiddagens två första timmar närmare på fyra svenska förslag. I detta, det tredje passet, så två tittar vi tillsammans med Karin Jansson (MP) på hur en miljöpartistisk basinkomst skulle kunna se ut. 2000 och 2007 utredde Karin som partistyrelseledamot och på partistyrelsen uppdrag hur medborgarlön skulle kunna utformas. Förslagen lades sedan till miljöpartiets kongress respektive ett rådslag bland medlemmarna. Du kan läsa den andra utredningen här http://karin.jonex.info/static/mblutr.pdf",
   "id": "45568"
 }

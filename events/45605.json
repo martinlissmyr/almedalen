@@ -3,8 +3,8 @@
   "arranger": "Uppsala universitet",
   "times": [
     {
-      "start": "2017-07-05T11:00:00.000Z",
-      "end": "2017-07-05T12:00:00.000Z"
+      "start": "2017-07-05T10:00:00.000Z",
+      "end": "2017-07-05T11:00:00.000Z"
     }
   ],
   "type": "Seminarium",
@@ -19,6 +19,6 @@
     "Hållbar utveckling"
   ],
   "description": "Antibiotikaresistensen ökar i hela samhället. Läkemedelsindustrin lyckas inte få fram nya antibiotika. Samtidigt fortsätter felanvändningen av antibiotika både till människor eller djur. Vilken roll har universiteten och hur kan de bidra till långsiktiga och globala lösningar?",
-  "extendedDescription": "Antibiotikaresistens och felanvändning av antibiotika är tvärvetenskapliga problem vilka kräver lösningar som involverar många ämnesområden och aktörer i samhället. Det nuvarande systemet är inte utformat för att belöna forskare för att lösa samhällsutmaningar, som till exempel utveckling av nya antibiotika eller implementering av lösningar för att minska och förbättra antibiotikaanvändningen i t.ex. utvecklingsländer. Var går gränsen för universitetens forskning och när ska samhället och industrin ta över? Vems är ansvaret efter att forskningsprojektet är slut?\n \nI likhet med klimatfrågan är antibiotikaresistensproblemet långsamt ökande vilket gör att åtgärder ständigt skjuts på framtiden. Vi står nu vid ett vägskäl – vill vi fortsätta försöka med enkla, billigare åtgärder som skjuter problemet på framtiden, eller vill vi skapa förutsättningar för samhälle, industri och universiteten att samverka och tillsammans skapa långsiktigt hållbara lösningar?\n",
+  "extendedDescription": "Antibiotikaresistens, avsaknad av nya antibiotika och felanvändning av antibiotika är problem som ger stora konsekvenser i samhället. Många olika åtgärder i privata och offentliga sektorn, i hög-, medel-, och låginkomstländer måste göras.\n\nI likhet med klimatfrågan är problemet med antibiotikaresistens något som långsamt kryper på oss vilket gör att åtgärder ständigt skjuts på framtiden. För att identifiera lösningar krävs tvärvetenskapliga insatser. Dock är det nuvarande systemet på många sätt inte utformat för att belöna forskare för att lösa samhällsutmaningar. \n\nAntibiotikaresistens väcker också frågor rörande hur forskningsgenombrott tas i bruk i samhället. Vem tar ansvar för att forskningsresultat kommer till användning? Hur kan universiteten bidra, till långsiktiga och globala lösningar? Hur skapar vi en sammanhållen kedja så att forskning stimuleras och ligger till grund för politiska beslut samt kommer människor till godo i slutändan? ",
   "id": "45605"
 }

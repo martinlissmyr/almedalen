@@ -1,0 +1,23 @@
+{
+  "title": "Fråga chefredaktören om Aftonbladet",
+  "arranger": "Aftonbladet",
+  "times": [
+    {
+      "start": "2017-07-04T13:00:00.000Z",
+      "end": "2017-07-04T13:30:00.000Z"
+    }
+  ],
+  "type": "Frågestund/utfrågning",
+  "area": "Media/journalistik",
+  "language": "Svenska",
+  "location": "Cramérgatan, H321",
+  "tags": [
+    "Framtid",
+    "Hat",
+    "Journalistik",
+    "Media",
+    "Samhälle"
+  ],
+  "description": "Aftonbladets publisher svarar på frågor om Aftonbladets journalistik och publiceringar. Allmänheten får ställa sina frågor.",
+  "id": "47778"
+}

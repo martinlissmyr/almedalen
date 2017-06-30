@@ -3,8 +3,8 @@
   "arranger": "Bristol-Myers Squibb, Pfizer",
   "times": [
     {
-      "start": "2017-07-04T11:00:00.000Z",
-      "end": "2017-07-04T12:00:00.000Z"
+      "start": "2017-07-04T10:00:00.000Z",
+      "end": "2017-07-04T11:00:00.000Z"
     }
   ],
   "type": "Debatt",
@@ -17,7 +17,7 @@
     "Hälso- och sjukvård",
     "Stroke"
   ],
-  "description": "Upp emot 100 000 svenskar beräknas ha förmaksflimmer utan att veta om det (Läkartidningen. 2015;112:DIMU). Trots det sade Socialstyrelsen i våras nej till att införa nationell screening. Dock stoppar denna rekommendation inte vården från att agera på egen hand. Hur går vi vidare i kampen mot stroke?",
+  "description": "Upp emot 100 000 svenskar beräknas ha förmaksflimmer utan att veta om det. Trots det sade Socialstyrelsen i våras nej till att införa nationell screening. Dock stoppar denna rekommendation inte vården från att agera på egen hand. Hur går vi vidare i kampen mot stroke?",
   "extendedDescription": "Antalet strokefall i Sverige minskar, trots att vi blir allt fler och allt äldre (Riks-Strokes årsrapport 2015). En anledning till detta är att Socialstyrelsens behandlingsmål om att 80 procent av patienter med förmaksflimmer och riskfaktorer för stroke ska behandlas med blodförtunnande medicin börjar uppfyllas. \nSamtidigt beräknas upp emot 100 000 svenskar ha förmaksflimmer utan att veta om det (Läkartidningen. 2015;112:DIMU). Dessa människor är såväl odiagnostiserade som obehandlade.\n\nSocialstyrelsen sade i våras nej till ett nationellt screeningprogram för 75-åringar i syfte att leta efter personer med förmaksflimmer som ännu inte hittats och låta dem bedömas huruvida de behöver strokeförebyggande behandling (http://www.socialstyrelsen.se/publikationer2017/2017-3-7). Samtidigt finns andra alternativ och Socialstyrelsens rekommendation stoppar inte vården från att agera. Hur fortsätter vi kampen mot stroke på bästa sätt?\n\nFölj och engagera dig i seminariet genom hashtag #BMSHorizont.",
   "id": "45302"
 }

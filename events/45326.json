@@ -3,8 +3,8 @@
   "arranger": "BIL Sweden, Motorbranschens riksförbund",
   "times": [
     {
-      "start": "2017-07-02T12:00:00.000Z",
-      "end": "2017-07-02T12:45:00.000Z"
+      "start": "2017-07-03T11:00:00.000Z",
+      "end": "2017-07-03T11:45:00.000Z"
     }
   ],
   "type": "Seminarium",
@@ -18,6 +18,6 @@
     "Kollektivtrafik",
     "Transport"
   ],
-  "description": "Den tekniska utvecklingen går fort och framtidens fordon är snart här. Olika grad av automatisering möjliggör smartare, grönare och säkrare transporter. Men vilken nytta får transportföretag och vad kommer de att efterfråga? Vilka tjänster och lösningar ger människor ökad rörlighet och bekvämlighet?",
+  "description": "Den tekniska utvecklingen går fort och framtidens fordon är snart här. Olika grad av automatisering möjliggör smartare, grönare och säkrare transporter. Hur fort går den tekniska utvecklingen? Vilka tjänster och lösningar ger människor ökad rörlighet och bekvämlighet?",
   "id": "45326"
 }

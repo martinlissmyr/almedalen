@@ -1,0 +1,24 @@
+{
+  "title": "När Stockholm växer måste bussen fram",
+  "arranger": "Keolis Sverige",
+  "times": [
+    {
+      "start": "2017-07-03T10:00:00.000Z",
+      "end": "2017-07-03T11:00:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Infrastruktur",
+  "language": "Svenska",
+  "location": "Donnerska huset, Donners plats 1",
+  "tags": [
+    "Bil",
+    "Kollektivtrafik",
+    "Samhällsekonomi",
+    "Stadsutveckling",
+    "Transporter"
+  ],
+  "description": "En av de största utmaningarna för kollektivtrafiken i våra städer är bristande framkomlighet. I Stockholms innerstad beräknas förseningarna i busstrafiken kosta resenärerna och samhället upp till 1,5 miljard årligen. Hur förbättrar vi framkomligheten och prioriterar bussen framför bilen i staden? ",
+  "extendedDescription": "Stockholm växer med två fulla bussar per dag, samtidigt ökar antalet bilar och bilresor för varje år. Den ökade biltrafiken skapar trängsel och framkomlighetsproblem för busstrafiken. Ständiga arbeten i gatumiljön påverkar även busstrafiken med omlagda och förändrade körvägar som påverkar tidhållningen. Förseningarna som ytterst drabbar resenärerna och påverkar arbetsmiljön för bussförarna. Vad krävs för att bussen ska få bättre framkomlighet? Vad skulle en förbättrad framkomlighet få för effekt för resenärerna? Vad skulle det innebära för utvecklingen av Stockholm och stadsmiljön? ",
+  "id": "48225"
+}

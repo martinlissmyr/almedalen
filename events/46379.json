@@ -1,0 +1,24 @@
+{
+  "title": "Ät för hälsan",
+  "arranger": "Cancerfonden",
+  "times": [
+    {
+      "start": "2017-07-06T11:00:00.000Z",
+      "end": "2017-07-06T12:00:00.000Z"
+    }
+  ],
+  "type": "Seminarium",
+  "area": "Mat",
+  "language": "Svenska",
+  "location": "Hamnplan, H234",
+  "tags": [
+    "Cancer",
+    "Folkhälsa",
+    "Folksjukdomar",
+    "Hälsa",
+    "Mat"
+  ],
+  "description": "Vad vi äter påverkar risken att drabbas av allvarliga sjukdomar. Varför är det då så svårt att äta \"rätt\"? Seminariet belyser kostens betydelse för hälsa och hur man kan arbeta för att stötta människor till mer hälsosamt kostval.",
+  "extendedDescription": "Under en timme har vi mat i fokus, där vi diskuterar kostens koppling till cancer och andra folksjukdomar och om man verkligen kan påverka sin livslängd genom kosten. Vi diskuterar varför kost väcker så mycket känslor, vad är egentligen en hälsosam kost och hur kan samhället stötta individer till mer hälsosamma kostval.",
+  "id": "46379"
+}

@@ -3,14 +3,14 @@
   "arranger": "Tidningen Syre",
   "times": [
     {
-      "start": "2017-07-03T11:00:00.000Z",
-      "end": "2017-07-03T11:20:00.000Z"
+      "start": "2017-07-03T10:00:00.000Z",
+      "end": "2017-07-03T10:20:00.000Z"
     }
   ],
-  "type": "Samtal",
+  "type": "Seminarium",
   "area": "Ekonomi",
   "language": "Svenska",
-  "location": "Södra Kyrkogatan 6, Syregården",
+  "location": "Södra Kyrkogatan 6",
   "tags": [
     "Arbetsliv",
     "Basinkomst",
@@ -18,7 +18,7 @@
     "Ekonomi",
     "Hållbart samhälle"
   ],
-  "description": "Basinkomst är på frammarsch i stora delar av världen, och Finland m.fl. länder pågår försök, men hur ser diskussionen ut i Sverige? Vi tittar närmare på fyra svenska förslag. På detta seminarium diskuterar vi en frihetlig grön modell. ",
-  "extendedDescription": "Basinkomst är på frammarsch i stora delar av världen, och Finland med flera länder pågår försök, men i Sverige har ingen större aktör än Piratpartiet och längre bak i tiden Miljöpartiet valt att driva frågan. Trots det diskuteras frågan allt mer och vi tittar under eftermiddagens två första timmar närmare på fyra svenska förslag. I det fjärde passet presenterar Syres chefredaktör en frihetlig grön model. Modellen bygger på ett högt grundavdrag och en hyfsad hög basinkomst och på den en platt skatt med samma marginaleffekter oavsett om du tjänar 1000 kr, 20 000 kr eller 40 000 kr i månaden. ",
+  "description": "Basinkomst är på frammarsch i stora delar av världen och i flera länder pågår försök. I Sverige har ingen större aktör än Piratpartiet och tidigare Miljöpartiet valt att driva frågan. Trots det diskuteras det allt mer. Vi tittar närmare på fyra svenska förslag. Sist ut är en frihetligt grön modell.",
+  "extendedDescription": "Basinkomst är på frammarsch i stora delar av världen och i Finland med flera länder pågår försök. Men i Sverige har ingen större aktör än Piratpartiet och längre bak i tiden Miljöpartiet valt att driva frågan. Trots det diskuteras frågan allt mer. Vi tittar under eftermiddagens två första timmar närmare på fyra svenska förslag. I det fjärde passet presenterar Syres chefredaktör en frihetlig grön modelll. Modellen bygger på ett högt grundavdrag och en hyfsad hög basinkomst och på den en platt skatt med samma marginaleffekter oavsett om du tjänar 1000 kr, 20 000 kr eller 40 000 kr i månaden. Förslaget som finansieras med besparingar och gröna skatter kommer presenteras på https://tidningensyre.se/author/lennart-fernstrom/ innan Almedalen",
   "id": "45572"
 }

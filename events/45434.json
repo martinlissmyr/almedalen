@@ -1,10 +1,10 @@
 {
-  "title": "De politiska besluten som format Sverige",
+  "title": "Besluten som format Sverige",
   "arranger": "Sveriges Radio",
   "times": [
     {
-      "start": "2017-07-02T11:50:00.000Z",
-      "end": "2017-07-02T13:10:00.000Z"
+      "start": "2017-07-05T11:00:00.000Z",
+      "end": "2017-07-05T12:00:00.000Z"
     }
   ],
   "type": "Debatt",
@@ -18,6 +18,6 @@
     "Samhällsutveckling",
     "Sverigebilden"
   ],
-  "description": "Vi tar oss an ett antal av de avgörande politiska beslut som format Sverige som vi känner det.",
+  "description": "Nya grepp i den politiska journalistiken. Hur kan man beskriva politikens avgörande ögonblick? Och varför behövs nya perspektiv? Vi tar oss an ett antal av de avgörande politiska beslut som format Sverige idag.",
   "id": "45434"
 }

@@ -7,7 +7,7 @@
       "end": "2017-07-03T08:45:00.000Z"
     }
   ],
-  "type": "Debatt",
+  "type": "Seminarium",
   "area": "Infrastruktur",
   "language": "Svenska",
   "location": "Uppsala universitet, Campus Gotland, Cramérgatan 3",
@@ -18,6 +18,6 @@
     "Transport",
     "Transportekonomi"
   ],
-  "description": "Hur reser folk egentligen? Hur ser de på transporter och fordon? Vilka skillnader finns mellan män och kvinnor, unga och gamla etc.? Vill ungdomar ta körkort, vill de äga bil, vill de äga något alls? Vi pratar kunskap och fördomar med en av Sveriges ledande forskare inom området. ",
+  "description": "Hur reser folk egentligen? Hur ser de på transporter? Vilka skillnader finns mellan män och kvinnor, unga och gamla? Vill ungdomar ta körkort, vill de äga bil? Färsk SKOP-undersökning om svenskarnas inställning till bilar och transporter.",
   "id": "45875"
 }

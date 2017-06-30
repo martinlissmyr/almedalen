@@ -1,0 +1,23 @@
+{
+  "title": "Vad händer när patienten tar kommandot?",
+  "arranger": "Dagens Nyheter",
+  "times": [
+    {
+      "start": "2017-07-06T06:45:00.000Z",
+      "end": "2017-07-06T07:30:00.000Z"
+    }
+  ],
+  "type": "Samtal",
+  "area": "Vård och omsorg",
+  "language": "Svenska",
+  "location": "Strandvägen 4",
+  "tags": [
+    "Hälso- och sjukvård",
+    "Innovation",
+    "Patientengagemang",
+    "Utveckling"
+  ],
+  "description": "Det krävs stora förändringar för att möta de utmaningar vi har idag med ett ökande antal multisjuka och patienter med kroniska sjukdomar. Patienterna ställer dessutom andra krav och de tekniska möjligheter som digitaliseringen ger erbjuder nya möjligheter till en aktiv dialog mellan vård och patient",
+  "extendedDescription": "Hur påverkas vårdsystemet och hur kan vi använda patienters resurser till att driva innovation och utveckling i hälso- och sjukvården? Hur kan digitaliseringen hjälpa till att skapa en sömlös vård- och omsorgskedja som möter patienten och ger önskat stöd? \nLyssna till ett samtal kring hur vård och omsorg kan bli bättre och mer effektiv med hjälp av den grupp patienter som kan och vill vara med och bidra till förbättrade processer. \n",
+  "id": "46738"
+}

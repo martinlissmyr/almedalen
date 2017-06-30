@@ -3,8 +3,8 @@
   "arranger": "Mannheimer Swartling Advokatbyrå, American Chamber of Commerce in Sweden",
   "times": [
     {
-      "start": "2017-07-04T12:00:00.000Z",
-      "end": "2017-07-04T13:00:00.000Z"
+      "start": "2017-07-04T11:00:00.000Z",
+      "end": "2017-07-04T12:00:00.000Z"
     }
   ],
   "type": "Seminarium",
@@ -16,6 +16,6 @@
     "Bil",
     "Digitalisering"
   ],
-  "description": "A panel discussion on how private transportation develops as society changes --\n especially in light of the current digitalization trends. At the center of this discussion is autonomous automotive issues and the legislative and regulatory hurdles which prevent it from becoming reality.",
+  "description": "A panel discussion on how private transportation develops as society changes - especially in light of the current digitalization trends. At the center of this discussion is autonomous automotive issues and the legislative and regulatory hurdles which prevent it from becoming reality.",
   "id": "45984"
 }

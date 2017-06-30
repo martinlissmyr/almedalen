@@ -1,20 +1,24 @@
 {
-  "title": "Äga eller hyra kommunala verksamhetslokaler? – Hur kommunen bäst planerar för skiftande behov",
+  "title": "Äga eller hyra kommunala verksamhetslokaler? Hur kommunen bäst planerar för skiftande behov",
   "arranger": "Parmaco",
   "times": [
     {
-      "start": "2017-07-04T11:15:00.000Z",
-      "end": "2017-07-04T12:15:00.000Z"
+      "start": "2017-07-04T10:15:00.000Z",
+      "end": "2017-07-04T11:15:00.000Z"
     }
   ],
   "type": "Debatt",
-  "area": "Byggande",
+  "area": "Regionfrågor",
   "language": "Svenska",
   "location": "Strandvägen 4",
   "tags": [
-    ""
+    "Byggande",
+    "Kommun",
+    "Kommunutveckling",
+    "Skola",
+    "Stadsutveckling"
   ],
-  "description": "Kommunernas ekonomi är ansträngd och en stor utmaning är att kunna matcha behov med lokalkapacitet. Hur tänker kommunpolitikerna då det gäller verksamhetsbyggnader inom barnomsorg och skolor? Är det alltid bättre att bygga och äga fastigheterna, eller är det mer flexibelt att hyra långsiktigt? ",
-  "extendedDescription": "Sveriges kommuner står inför stora utmaningar de kommande åren, inte minst då det gäller förskole- och skolverksamheten. De flesta kommuner har en stor demografisk utveckling på grund av en stark tillväxt, stora barnkullar som är på väg ut i skollivet och med det omfattande flyktingmottagandet 2015. Många skolor är dessutom gamla och i behov av att bytas ut eller renoveras. Det är svårt att hinna producera skolor och den största utmaningen är att matcha behov med lokalkapacitet. Inte minst innebär det en ekonomisk utmaning för kommunerna som ofta har hög låneskuld. Enligt Kommuninvests senaste rapport ökade kommunsektorns låneskuld med ca 50 mdkr, vilket är den största ökningen någonsin. Hur ska kommunerna ha råd med de nya, dyra byggnaderna? Hur kan kommunerna tänka mer långsiktigt och väva in skiftande behov under en längre tidsperiod? KTH har tagit fram ett verktyg som kan hjälpa kommunerna att jämföra kostnader och att optimera kommunernas ekonomi.\n\n",
+  "description": "Kommunernas ekonomi är ansträngd och en stor utmaning är att kunna matcha behov med lokalkapacitet. Hur tänker kommunerna då det gäller verksamhetsbyggnader inom barnomsorg och skolor? Är det alltid bättre att bygga och äga fastigheterna, eller är det mer flexibelt att hyra långsiktigt?",
+  "extendedDescription": "Sveriges kommuner står inför stora och varierade demografiska utmaningar de kommande åren pga stark tillväxt, stora barnkullar i skolålder och flyktingmottagandet under 2015. Detta gäller inte minst förskola- och skolverksamheten. Många skolor är även gamla och i behov av att bytas ut eller renoveras. Det är svårt att hinna producera skolor och den största utmaningen är att matcha behov med lokalkapacitet. Inte minst innebär det en ekonomisk press på kommunerna som ofta har hög låneskuld. Enligt Kommuninvests senaste rapport ökade kommunsektorns låneskuld med 50 mdkr, den största ökningen någonsin. Hur ska kommunerna ha råd med nya dyra byggnader? Hur kan kommunerna tänka mer långsiktigt och väva in skiftande behov under en längre tidsperiod? Hans Lind, professor i Fastighetsekonomi, har tagit fram ett verktyg som hjälper kommunerna att jämföra kostnader och optimera kommunernas ekonomi. Forskningsansvarig på Kommuninvest presenterar rapporten Den Kommunala låneskulden 2016.           ",
   "id": "45083"
 }

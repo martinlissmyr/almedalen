@@ -3,14 +3,14 @@
   "arranger": "I telefonen finns hela människan, Gotlands Museum, Riksförbundet Sveriges Museer",
   "times": [
     {
-      "start": "2017-07-05T08:00:00.000Z",
-      "end": "2017-07-05T09:00:00.000Z"
+      "start": "2017-07-05T07:15:00.000Z",
+      "end": "2017-07-05T08:15:00.000Z"
     }
   ],
   "type": "Seminarium",
   "area": "Integration/mångfald",
   "language": "Svenska",
-  "location": "Gotlands museum, Strandgatan 14",
+  "location": "",
   "tags": [
     "Asyl",
     "Integration",
@@ -19,6 +19,6 @@
     "Nyanlända"
   ],
   "description": "Många museer arbetar med frågor kring flyktingskap, men också aktivt med nyanlända. 2015 hade Sveriges museer över 26 miljoner besök. Museerna är en kraftfull plattform för att sprida kunskap och låta människor mötas. Hur kan museerna vara en samhällsresurs i integrationsarbetet?",
-  "extendedDescription": "Åtta museer från Malmö i söder till Uppsala i norr samverkar i projektet I telefonen finns hela människan. \nSveriges museer kan bidra med:\n• Kunskap och kunskapsspridning\nKunskapen hos svenskarna om de länder som flyktingar kommit från är ofta liten. På samma sätt behöver de nyanlända veta mer om det land de kommit till. \n• Mötesplatser\nInom integrationsarbetet efterlyses hela tiden platser där svenskar och nyanlända kan träffas och prata. \n• Arbetsplatser\nDet finns ett stort behov av praktik- och arbetsplatser för anlända. Museerna behöver generellt – liksom många andra samhällsinstitutioner – ha en bred kompetens och bakgrund bland sina medarbetare.\n",
+  "extendedDescription": "Åtta museer från Malmö i söder till Uppsala i norr samverkar i projektet I telefonen finns hela människan. \nSveriges museer kan bidra med:\n• Kunskap och kunskapsspridning.\nKunskapen hos svenskarna om de länder som flyktingar kommit från är ofta liten. På samma sätt behöver de nyanlända veta mer om det land de kommit till. \n• Mötesplatser.\nInom integrationsarbetet efterlyses hela tiden platser där svenskar och nyanlända kan träffas och prata. \n• Arbetsplatser.\nDet finns ett stort behov av praktik- och arbetsplatser för anlända. Museerna behöver generellt – liksom många andra samhällsinstitutioner – ha en bred kompetens och bakgrund bland sina medarbetare.\n",
   "id": "45243"
 }
